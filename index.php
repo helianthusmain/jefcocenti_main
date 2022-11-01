@@ -18,7 +18,6 @@
 <body>
 
     <!-- start header area -->
-    <!-- start header area -->
     <header class="header--sticky header-one ">
         <div class="header-top header-top-one bg-1">
             <div class="container">
