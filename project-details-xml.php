@@ -10,7 +10,10 @@ foreach ($xmlData -> children() as $value) {
     'pimg'=>$value->pimg);
 }
 
-echo $projectPass[1]['client'];
+
+echo count($projectPass);
+
+
 
 
 
@@ -122,12 +125,15 @@ echo $projectPass[1]['client'];
         </div>
     </div>
 
-    <div class="rts-project-details-area  pt--20 pb--20">
+    <?php
+    
+    for ($i=0; $i <= count($projectPass) ; $i++) { ?>
+        <div class="rts-project-details-area pt--20 pb--20">
         <div class="container">
             <div class="row">
                 <div class="col-12">
                     <div class="big-bg-porduct-details">
-                        <img src="assets/images/projects/BCIcampus.jpg" alt="BCI Campus">
+                        <img src="assets/images/projects/<?php echo $projectPass[i]['client'];?>" alt="BCI Campus">
                         <div class="project-info">
                             <div class="info-head">
                                 <h5 class="title">Project Information</h5>
@@ -140,7 +146,7 @@ echo $projectPass[1]['client'];
                                     </div>
                                     <div class="info-details">
                                         <span>Company | Client:</span>
-                                        <h6 class="name">BCI Campus (Bolawalana)</h6>
+                                        <h6 class="name"><?php echo $projectPass[i]['client'];?></h6>
                                     </div>
                                 </div>
                                 <!-- end single info -->
@@ -151,7 +157,7 @@ echo $projectPass[1]['client'];
                                     </div>
                                     <div class="info-details">
                                         <span>Extent of Project:</span>
-                                        <h6 class="name">Air  Conditioning, Industrial Exhaust System</h6>
+                                        <h6 class="name"><?php echo $projectPass[i]['pinfo'];?></h6>
                                     </div>
                                 </div>
                                 <!-- end single info -->
@@ -162,7 +168,7 @@ echo $projectPass[1]['client'];
                                     </div>
                                     <div class="info-details">
                                         <span>Date:</span>
-                                        <h6 class="name">2021</h6>
+                                        <h6 class="name"><?php echo $projectPass[i]['pdate'];?></h6>
                                     </div>
                                 </div>
                                 <!-- end single info -->
@@ -173,7 +179,7 @@ echo $projectPass[1]['client'];
                                     </div>
                                     <div class="info-details">
                                         <span>Location:</span>
-                                        <h6 class="name">Negombo </h6>
+                                        <h6 class="name"><?php echo $projectPass[i]['ploc'];?> </h6>
                                     </div>
                                 </div>
                                 <!-- end single info -->
@@ -184,23 +190,16 @@ echo $projectPass[1]['client'];
 
             </div>
             
-            <!--Page description------------------------------------>
-            <!--<div class="row mt--70 mb--50">
-                <div class="col-12">
-                    <div class="product-details-main-inner">
-                        <span>Growth Solution</span>
-                        <h3 class="title">Our Business Growth</h3>
-                        <p class="disc">Netus platea nec commodo tincidunt felis orci iaculis facilisi. Molestie etiam
-                            magnis rutrum penatibus eros non accumsan erat nulla, convallis rhoncus natoque lacinia
-                            class viverra platea cubilia, netus luctus tristique quam habitasse taciti nullam fringilla
-                            nostra netus class felis magnis sed consequat orci,  </p>
-                        
-                    </div>
-                </div>
-            </div>--><!--Page description------------------------------------>
+
         
         </div>
     </div>
+
+    
+    <?php
+    }
+    
+    ?>
 
 
 
