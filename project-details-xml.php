@@ -58,82 +58,15 @@ echo count($projectPass);
         </div>
     </div>
 
-    <div class="rts-project-details-area pt--20 pb--20">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="big-bg-porduct-details">
-                        <img src="assets/images/projects/BCIcampus.jpg" alt="BCI Campus">
-                        <div class="project-info">
-                            <div class="info-head">
-                                <h5 class="title">Project Information</h5>
-                            </div>
-                            <div class="info-body">
-                                <!-- single info -->
-                                <div class="single-info">
-                                    <div class="info-ico">
-                                        <i class="fas fa-user"></i>
-                                    </div>
-                                    <div class="info-details">
-                                        <span>Company | Client:</span>
-                                        <h6 class="name">BCI Campus (Bolawalana)</h6>
-                                    </div>
-                                </div>
-                                <!-- end single info -->
-                                <!-- single info -->
-                                <div class="single-info">
-                                    <div class="info-ico">
-                                        <i class="fas fa-layer-group"></i>
-                                    </div>
-                                    <div class="info-details">
-                                        <span>Extent of Project:</span>
-                                        <h6 class="name">Air  Conditioning, Industrial Exhaust System</h6>
-                                    </div>
-                                </div>
-                                <!-- end single info -->
-                                <!-- single info -->
-                                <div class="single-info">
-                                    <div class="info-ico">
-                                        <i class="fas fa-calendar-alt"></i>
-                                    </div>
-                                    <div class="info-details">
-                                        <span>Date:</span>
-                                        <h6 class="name">2021</h6>
-                                    </div>
-                                </div>
-                                <!-- end single info -->
-                                <!-- single info -->
-                                <div class="single-info">
-                                    <div class="info-ico">
-                                        <i class="fas fa-map-marker-alt"></i>
-                                    </div>
-                                    <div class="info-details">
-                                        <span>Location:</span>
-                                        <h6 class="name">Negombo </h6>
-                                    </div>
-                                </div>
-                                <!-- end single info -->
-                            </div>
-                        </div>
-                    </div>
-                </div>      
-
-            </div>
-            
-
-        
-        </div>
-    </div>
-
     <?php
     
-    for ($i=0; $i <= count($projectPass) ; $i++) { ?>
+    for ($i=0; $i < count($projectPass) ; $i++) { ?>
         <div class="rts-project-details-area pt--20 pb--20">
         <div class="container">
             <div class="row">
                 <div class="col-12">
                     <div class="big-bg-porduct-details">
-                        <img src="assets/images/projects/<?php echo $projectPass[i]['client'];?>" alt="BCI Campus">
+                        <img src="assets/images/projects/<?php echo $projectPass[$i]['pimg'];?>" alt="BCI Campus">
                         <div class="project-info">
                             <div class="info-head">
                                 <h5 class="title">Project Information</h5>
@@ -146,7 +79,7 @@ echo count($projectPass);
                                     </div>
                                     <div class="info-details">
                                         <span>Company | Client:</span>
-                                        <h6 class="name"><?php echo $projectPass[i]['client'];?></h6>
+                                        <h6 class="name"><?php echo $projectPass[$i]['client'];?></h6>
                                     </div>
                                 </div>
                                 <!-- end single info -->
@@ -157,7 +90,7 @@ echo count($projectPass);
                                     </div>
                                     <div class="info-details">
                                         <span>Extent of Project:</span>
-                                        <h6 class="name"><?php echo $projectPass[i]['pinfo'];?></h6>
+                                        <h6 class="name"><?php echo $projectPass[$i]['pinfo'];?></h6>
                                     </div>
                                 </div>
                                 <!-- end single info -->
@@ -168,7 +101,7 @@ echo count($projectPass);
                                     </div>
                                     <div class="info-details">
                                         <span>Date:</span>
-                                        <h6 class="name"><?php echo $projectPass[i]['pdate'];?></h6>
+                                        <h6 class="name"><?php echo $projectPass[$i]['pdate'];?></h6>
                                     </div>
                                 </div>
                                 <!-- end single info -->
@@ -179,7 +112,7 @@ echo count($projectPass);
                                     </div>
                                     <div class="info-details">
                                         <span>Location:</span>
-                                        <h6 class="name"><?php echo $projectPass[i]['ploc'];?> </h6>
+                                        <h6 class="name"><?php echo $projectPass[$i]['ploc'];?> </h6>
                                     </div>
                                 </div>
                                 <!-- end single info -->
