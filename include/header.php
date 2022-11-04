@@ -5,7 +5,7 @@
                     <div class="col-lg-6 d-xl-block d-none">
                         <div class="left">
                             <div class="mail">
-                                <a href="mailto:webmaster@example.com"><i class="fal fa-envelope"></i> info@finbiz.com</a>
+                                <a href="mailto:webmaster@example.com"><i class="fal fa-envelope"></i> info@jefcocenti.com</a>
                             </div>
                             <div class="working-time">
                                 <p><i class="fal fa-clock"></i> Working: 8.00am - 5.00pm</p>
@@ -99,30 +99,30 @@
                         <!-- single -->
                         <div class="single">
                             <i class="fas fa-phone-alt"></i>
-                            <a href="#">+8801234566789</a>
+                            <a href="#">077 726 08509</a>
                         </div>
                         <!-- single ENd -->
                         <!-- single -->
                         <div class="single">
                             <i class="fas fa-envelope"></i>
-                            <a href="#">example@gmail.com</a>
+                            <a href="#">info@jefcocenti.com</a>
                         </div>
                         <!-- single ENd -->
                         <!-- single -->
                         <div class="single">
                             <i class="fas fa-globe"></i>
-                            <a href="#">www.webexample.com</a>
+                            <a href="#">www.jefcocenti.com</a>
                         </div>
                         <!-- single ENd -->
                         <!-- single -->
                         <div class="single">
                             <i class="fas fa-map-marker-alt"></i>
-                            <a href="#">13/A, New Pro State, NYC</a>
+                            <a href="#">No 515/4 TB Jaya mawatha , Colombo, Sri Lanka</a>
                         </div>
                         <!-- single ENd -->
                     </div>
                     <div class="social-wrapper-two menu">
-                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        <a href="https://www.facebook.com/profile.php?id=100065064349236"><i class="fab fa-facebook-f"></i></a>
                         <a href="#"><i class="fab fa-twitter"></i></a>
                         <a href="#"><i class="fab fa-instagram"></i></a>
                         <a href="#"><i class="fab fa-whatsapp"></i></a>
