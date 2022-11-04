@@ -15,9 +15,9 @@
                     <div class="col-lg-6 d-xl-block d-none">
                         <div class="right">
                             <ul class="top-nav">
-                                <li><a href="about-us.html">About</a></li>
-                                <li><a href="blog-list.html">Services</a></li>
-                                <li><a href="contactus.html">Contact</a></li>
+                                <li><a href="about-us.php">About</a></li>
+                                <li><a href="our-service.php">Services</a></li>
+                                <li><a href="contactus.php">Contact</a></li>
                             </ul>
                             <ul class="social-wrapper-one">
                                 <li><a href=""><i class="fab fa-facebook-f"></i></a></li>
@@ -44,12 +44,12 @@
                         <div class="main-header">
                             <nav class="nav-main mainmenu-nav d-none d-xl-block">
                                 <ul class="mainmenu">
-                                    <li><a href="#">Home</a></li>
-                                    <li><a href="about-us.html">About Us</a></li>
-                                    <li><a  href="#">Services</a> </li>
-                                    <li><a  href="#">Project</a></li>
-                                    <li><a  href="#">Products</a></li>
-                                    <li><a href="contactus.html">Contact</a></li>
+                                    <li><a href="index.php">Home</a></li>
+                                    <li><a href="about-us.php">About Us</a></li>
+                                    <li><a  href="our-service.php">Services</a> </li>
+                                    <li><a  href="project-details.php">Project</a></li>
+                                    <li><a  href="products.php">Products</a></li>
+                                    <li><a href="contactus.php">Contact</a></li>
                                 </ul>
                             </nav>
                             <div class="button-area">
@@ -133,12 +133,12 @@
             <div class="body-mobile d-block d-xl-none">
                 <nav class="nav-main mainmenu-nav">
                     <ul class="mainmenu">
-                        <li><a href="#">Home</a></li>
-                        <li><a href="about-us.html">About Us</a></li>
-                        <li><a href="#">Services</a></li>
-                        <li><a href="#">Project</a></li>
-                        <li><a href="#">Products</a></li> 
-                        <li><a href="contactus.html">Contact</a></li>
+                        <li><a href="index.php">Home</a></li>
+                        <li><a href="about-us.php">About Us</a></li>
+                        <li><a href="our-service.php">Services</a></li>
+                        <li><a href="project-details.php">Project</a></li>
+                        <li><a href="products.php">Products</a></li> 
+                        <li><a href="contactus.php">Contact</a></li>
                     </ul>
                 </nav>
                 <div class="social-wrapper-two menu mobile-menu">
