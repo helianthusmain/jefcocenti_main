@@ -46,7 +46,7 @@
             <div class="row">
                 <div class="col-12">
                     <div class="big-bg-porduct-details">
-                        <img src="assets/images/product/bg-lg-01.jpg" alt="Business_Finbiz">
+                        <img src="assets/images/projects/BCIcampus.jpg" alt="BCI Campus">
                         <div class="project-info">
                             <div class="info-head">
                                 <h5 class="title">Project Information</h5>
@@ -58,7 +58,7 @@
                                         <i class="fas fa-user"></i>
                                     </div>
                                     <div class="info-details">
-                                        <span>Clients:</span>
+                                        <span>Client | Company:</span>
                                         <h6 class="name">Josefin H. Smith</h6>
                                     </div>
                                 </div>
