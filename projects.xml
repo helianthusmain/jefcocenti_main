@@ -8,10 +8,12 @@
         <pimg>BCIcampus.jpg</pimg>
     </project>
     <project>
-        <client>BCI Campus (Bolawalana) TWO</client>
-        <pinfo>Air Conditioning, Industrial Exhaust System</pinfo>
+        <client>Municipal Council</client>
+        <pinfo>Air  Conditioning, Industrial Exhaust System,Service and Maintenance</pinfo>
         <pdate>2021</pdate>
         <ploc>Negombo</ploc>
-        <pimg>BCIcampus.jpg</pimg>
+        <pimg>MunicipalCouncil.jpg</pimg>
     </project>
+
+
 </company>

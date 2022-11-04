@@ -36,7 +36,7 @@
                     <div class="col-xl-3 col-lg-4 col-md-4 col-sm-4 col-4">
                         <div class="thumbnail">
                             <a href="index.html">
-                                <img src="assets/images/logo/logo-1.svg" alt="finbiz-logo">
+                                <img src="assets/images/logo/logo-1.jpg" alt="Jefco-logo">
                             </a>
                         </div>
                     </div>
@@ -89,7 +89,8 @@
             <a class="logo-4" href="index.html"><img class="logo" src="assets/images/logo/logo-5.svg" alt="finbiz_logo"></a>
             <div class="body d-none d-xl-block">
                 <p class="disc">
-                    We must explain to you how all seds this mistakens idea denouncing pleasures and praising account.
+                To be the leading mechanical & electronic engineering company in Sri Lanka
+
                 </p>
                 <div class="get-in-touch">
                     <!-- title -->
