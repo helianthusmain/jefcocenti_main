@@ -1,3 +1,20 @@
+<?php
+
+$xmlData = simplexml_load_file("projects.xml");
+
+foreach ($xmlData -> children() as $value) {
+    $projectPass[]= array('client'=>$value->client,
+    'pinfo'=>$value->pinfo,
+    'pdate'=>$value->pdate,
+    'ploc'=>$value->ploc,
+    'pimg'=>$value->pimg);
+}
+
+echo $projectPass[1]['client'];
+
+
+
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -21,7 +38,6 @@
     <?php include_once("include/header.php"); ?>
     <!-- ENd Header Area -->
 
-    <!-- start breadcrumb area -->
     <div class="rts-breadcrumb-area breadcrumb-bg bg_image">
         <div class="container">
             <div class="row align-items-center">
@@ -38,9 +54,7 @@
             </div>
         </div>
     </div>
-    <!-- end breadcrumb area -->
 
-    <!-- project details image area -->
     <div class="rts-project-details-area pt--20 pb--20">
         <div class="container">
             <div class="row">
@@ -103,20 +117,7 @@
 
             </div>
             
-            <!--Page description------------------------------------>
-            <!--<div class="row mt--70 mb--50">
-                <div class="col-12">
-                    <div class="product-details-main-inner">
-                        <span>Growth Solution</span>
-                        <h3 class="title">Our Business Growth</h3>
-                        <p class="disc">Netus platea nec commodo tincidunt felis orci iaculis facilisi. Molestie etiam
-                            magnis rutrum penatibus eros non accumsan erat nulla, convallis rhoncus natoque lacinia
-                            class viverra platea cubilia, netus luctus tristique quam habitasse taciti nullam fringilla
-                            nostra netus class felis magnis sed consequat orci,  </p>
-                        
-                    </div>
-                </div>
-            </div>--><!--Page description------------------------------------>
+
         
         </div>
     </div>

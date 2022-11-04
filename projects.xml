@@ -1,6 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <company>
     <project>
-        
+        <client>BCI Campus (Bolawalana)</client>
+        <pinfo>Air Conditioning, Industrial Exhaust System</pinfo>
+        <pdate>2021</pdate>
+        <ploc>Negombo</ploc>
+        <pimg>BCIcampus.jpg</pimg>
+    </project>
+    <project>
+        <client>BCI Campus (Bolawalana) TWO</client>
+        <pinfo>Air Conditioning, Industrial Exhaust System</pinfo>
+        <pdate>2021</pdate>
+        <ploc>Negombo</ploc>
+        <pimg>BCIcampus.jpg</pimg>
     </project>
 </company>
