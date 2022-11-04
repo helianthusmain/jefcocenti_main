@@ -41,7 +41,7 @@
     <!-- end breadcrumb area -->
 
     <!-- project details image area -->
-    <div class="rts-project-details-area rts-section-gap">
+    <div class="rts-project-details-area pt--20 pb--20">
         <div class="container">
             <div class="row">
                 <div class="col-12">
@@ -58,8 +58,8 @@
                                         <i class="fas fa-user"></i>
                                     </div>
                                     <div class="info-details">
-                                        <span>Client | Company:</span>
-                                        <h6 class="name">Josefin H. Smith</h6>
+                                        <span>Company | Client:</span>
+                                        <h6 class="name">BCI Campus (Bolawalana)</h6>
                                     </div>
                                 </div>
                                 <!-- end single info -->
@@ -69,8 +69,8 @@
                                         <i class="fas fa-layer-group"></i>
                                     </div>
                                     <div class="info-details">
-                                        <span>Category:</span>
-                                        <h6 class="name">Business Solution</h6>
+                                        <span>Extent of Project:</span>
+                                        <h6 class="name">Air  Conditioning, Industrial Exhaust System</h6>
                                     </div>
                                 </div>
                                 <!-- end single info -->
@@ -81,7 +81,7 @@
                                     </div>
                                     <div class="info-details">
                                         <span>Date:</span>
-                                        <h6 class="name">25 January, 2023</h6>
+                                        <h6 class="name">2021</h6>
                                     </div>
                                 </div>
                                 <!-- end single info -->
@@ -91,17 +91,20 @@
                                         <i class="fas fa-map-marker-alt"></i>
                                     </div>
                                     <div class="info-details">
-                                        <span>Address:</span>
-                                        <h6 class="name">258 Dancing Street, USA</h6>
+                                        <span>Location:</span>
+                                        <h6 class="name">Negombo </h6>
                                     </div>
                                 </div>
                                 <!-- end single info -->
                             </div>
                         </div>
                     </div>
-                </div>
+                </div>      
+
             </div>
-            <div class="row mt--70 mb--50">
+            
+            <!--Page description------------------------------------>
+            <!--<div class="row mt--70 mb--50">
                 <div class="col-12">
                     <div class="product-details-main-inner">
                         <span>Growth Solution</span>
@@ -109,100 +112,100 @@
                         <p class="disc">Netus platea nec commodo tincidunt felis orci iaculis facilisi. Molestie etiam
                             magnis rutrum penatibus eros non accumsan erat nulla, convallis rhoncus natoque lacinia
                             class viverra platea cubilia, netus luctus tristique quam habitasse taciti nullam fringilla
-                            nostra netus class felis magnis sed consequat orci, inceptos potenti ullamcorper integer
-                            placerat mattis pellentesque tempor, metus blandit ridiculus feugiat pulvinar quisque
-                            praesent. Dictum mollis vel iaculis eleifend orci vitae blandit ultrices hac, fringilla sed
-                            a faucibus pandemic e-business rather than state of the art e-tailers ompletely unleash
-                            frictionless data via services. </p>
-                        <p class="italic">
-                            “Tortor nunc dictumst sapien inceptos libero natoque maecenas metus viverra commodo
-                            dignissim
-                            magna, donec odio leo varius nullam potenti porta facilisi vulputate sollicitudin montes
-                            ostra
-                            vel himenaeos sem sociosqu erat inceptos”</p>
+                            nostra netus class felis magnis sed consequat orci,  </p>
+                        
                     </div>
                 </div>
-            </div>
-            <div class="row g-5 mb--60">
-                <div class="col-lg-4">
-                    <div class="thumbnail">
-                        <img src="assets/images/product/d-01.jpg" alt="">
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="thumbnail">
-                        <img src="assets/images/product/d-02.jpg" alt="">
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="thumbnail">
-                        <img src="assets/images/product/d-03.jpg" alt="">
-                    </div>
-                </div>
-            </div>
-            <div class="row g-5">
-                <div class="col-12">
-                    <h3 class="title mb--0">The Challenge Of Project</h3>
-                </div>
-                <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 pr--80">
-                    <div class="single-project-details-challenge">
-                        <div class="icon">
-                            <i class="far fa-check-circle"></i>
-                        </div>
-                        <p class="details">
-                            The housekeepers we hired are professionals who take pride in doing
-                            excellent work and in exceed.
-                        </p>
-                    </div>
-                    <div class="single-project-details-challenge">
-                        <div class="icon">
-                            <i class="far fa-check-circle"></i>
-                        </div>
-                        <p class="details">
-                            Facilisi odio mus quam risus vestibulum torquent eleifend integer semper ridiculus mi habitasse, imperdiet
-                        </p>
-                    </div>
-                    <div class="single-project-details-challenge">
-                        <div class="icon">
-                            <i class="far fa-check-circle"></i>
-                        </div>
-                        <p class="details">
-                            Laoreet mus quisque rhoncus himenaeos praesent enim tortor life dapibus pharetra netus duis vel habitant
-                        </p>
-                    </div>
-                </div>
-                <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 pr--80">
-                    <div class="single-project-details-challenge">
-                        <div class="icon">
-                            <i class="far fa-check-circle"></i>
-                        </div>
-                        <p class="details">
-                            The housekeepers we hired are professionals who take pride in doing
-                            excellent work and in exceed.
-                        </p>
-                    </div>
-                    <div class="single-project-details-challenge">
-                        <div class="icon">
-                            <i class="far fa-check-circle"></i>
-                        </div>
-                        <p class="details">
-                            Facilisi odio mus quam risus vestibulum torquent eleifend integer semper ridiculus mi habitasse, imperdiet
-                        </p>
-                    </div>
-                    <div class="single-project-details-challenge">
-                        <div class="icon">
-                            <i class="far fa-check-circle"></i>
-                        </div>
-                        <p class="details">
-                            Laoreet mus quisque rhoncus himenaeos praesent enim tortor life dapibus pharetra netus duis vel habitant
-                        </p>
-                    </div>
-                </div>
-            </div>
+            </div>--><!--Page description------------------------------------>
+        
         </div>
     </div>
+
+    <div class="rts-project-details-area  pt--20 pb--20">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="big-bg-porduct-details">
+                        <img src="assets/images/projects/BCIcampus.jpg" alt="BCI Campus">
+                        <div class="project-info">
+                            <div class="info-head">
+                                <h5 class="title">Project Information</h5>
+                            </div>
+                            <div class="info-body">
+                                <!-- single info -->
+                                <div class="single-info">
+                                    <div class="info-ico">
+                                        <i class="fas fa-user"></i>
+                                    </div>
+                                    <div class="info-details">
+                                        <span>Company | Client:</span>
+                                        <h6 class="name">BCI Campus (Bolawalana)</h6>
+                                    </div>
+                                </div>
+                                <!-- end single info -->
+                                <!-- single info -->
+                                <div class="single-info">
+                                    <div class="info-ico">
+                                        <i class="fas fa-layer-group"></i>
+                                    </div>
+                                    <div class="info-details">
+                                        <span>Extent of Project:</span>
+                                        <h6 class="name">Air  Conditioning, Industrial Exhaust System</h6>
+                                    </div>
+                                </div>
+                                <!-- end single info -->
+                                <!-- single info -->
+                                <div class="single-info">
+                                    <div class="info-ico">
+                                        <i class="fas fa-calendar-alt"></i>
+                                    </div>
+                                    <div class="info-details">
+                                        <span>Date:</span>
+                                        <h6 class="name">2021</h6>
+                                    </div>
+                                </div>
+                                <!-- end single info -->
+                                <!-- single info -->
+                                <div class="single-info">
+                                    <div class="info-ico">
+                                        <i class="fas fa-map-marker-alt"></i>
+                                    </div>
+                                    <div class="info-details">
+                                        <span>Location:</span>
+                                        <h6 class="name">Negombo </h6>
+                                    </div>
+                                </div>
+                                <!-- end single info -->
+                            </div>
+                        </div>
+                    </div>
+                </div>      
+
+            </div>
+            
+            <!--Page description------------------------------------>
+            <!--<div class="row mt--70 mb--50">
+                <div class="col-12">
+                    <div class="product-details-main-inner">
+                        <span>Growth Solution</span>
+                        <h3 class="title">Our Business Growth</h3>
+                        <p class="disc">Netus platea nec commodo tincidunt felis orci iaculis facilisi. Molestie etiam
+                            magnis rutrum penatibus eros non accumsan erat nulla, convallis rhoncus natoque lacinia
+                            class viverra platea cubilia, netus luctus tristique quam habitasse taciti nullam fringilla
+                            nostra netus class felis magnis sed consequat orci,  </p>
+                        
+                    </div>
+                </div>
+            </div>--><!--Page description------------------------------------>
+        
+        </div>
+    </div>
+
+
+
     <!-- project details image area end -->
 
+    
     <!-- start header area -->
     <!-- rts footer area start -->
     <?php include_once("include/footer.php"); ?>
