@@ -210,8 +210,8 @@
             <div class="row">
                 <div class="col-12">
                     <div class="contact-map-area-fluid">
-                        <iframe class="contact-map" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d14602.288851207937!2d90.47855065!3d23.798243149999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1663151706353!5m2!1sen!2sbd" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                        <img class="location" src="assets/images/contact/shape/location.svg" alt="Business_map">
+                        <iframe class="contact-map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.7580974786624!2d79.85993521519174!3d6.919496520351666!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae2596d4c21fa0b%3A0x279899cbfaef0fa3!2sJefco%20Centi%20(Private)%20Limited!5e0!3m2!1ssi!2slk!4v1667664782396!5m2!1ssi!2slk" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                       <!-- <img class="location" src="assets/images/contact/shape/location.svg" alt="Business_map">-->
                     </div>
                 </div>
             </div>
