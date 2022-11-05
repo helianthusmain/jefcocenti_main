@@ -43,68 +43,163 @@
     <!-- contact single area start -->
     <div class="rts-contact-area rts-section-gap">
         <div class="container">
-            <div class="row g-5">
+            <div class="row">
                 <!-- single contact area -->
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
+                <div class="col-sm">
+
+
+                <h6 class="text-center">Head Office</h6>
                     <div class="single-contact-one-inner">
-                        <div class="thumbnail">
-                            <img src="assets/images/contact/01.png" alt="">
+                        <div class="content">
+                            
+                            <div class="icone">
+                                <img src="assets/images/contact/shape/01.svg" alt="">
+                            </div>
+                            <div class="info">
+                                <span>Call Us 24/7</span>
+                                <a href="tel:+94112693120">
+                                    <p>+94 112 693 120</p>
+                                </a>
+                                <a href="tel:+94777260850">
+                                    <p>+94 777 260 850</p>
+                                </a>
+                            </div>
                         </div>
+                    </div>
+                
+                    <div class="single-contact-one-inner">
+                        <div class="content">
+                            <div class="icone">
+                                <img src="assets/images/contact/shape/02.svg" alt="">
+                            </div>
+                            <div class="info">
+                                <span>Email</span>
+                                <a href="mailto:info@jefcocenti.com">
+                                    <p>info@jefcocenti.com</p>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+              
+                    <div class="single-contact-one-inner">
+                        <div class="content">
+                            <div class="icone">
+                                <img src="assets/images/contact/shape/03.svg" alt="">
+                            </div>
+                            <div class="info">
+                                <span>Address</span>
+                                <a href="#">
+                                    <p>No. 515/4 T.B. Jaya Mawatha, Colombo 10.</p>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
+
+
+                <div class="col-sm">
+
+                <h6 class="text-center">Negombo Branch</h6>
+                
+                <div class="single-contact-one-inner">
+                    <div class="content">
+                        <div class="icone">
+                            <img src="assets/images/contact/shape/01.svg" alt="">
+                        </div>
+                        <div class="info">
+                            <span>Call Us 24/7</span>
+                            <a href="tel:+94773635256">
+                                <p>+94 773 635 256</p>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            
+                <div class="single-contact-one-inner">
+                    <div class="content">
+                        <div class="icone">
+                            <img src="assets/images/contact/shape/02.svg" alt="">
+                        </div>
+                        <div class="info">
+                            <span>Email</span>
+                            <a href="mailto:info@jefcocenti.com">
+                                <p>info@jefcocenti.com</p>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+          
+                <div class="single-contact-one-inner">
+                    <div class="content">
+                        <div class="icone">
+                            <img src="assets/images/contact/shape/03.svg" alt="">
+                        </div>
+                        <div class="info">
+                            <span>Address</span>
+                            <a href="#">
+                                <p>Puttalam Highway, Negombo.</p>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+
+
+                <div class="col-sm">
+                <h6 class="text-center">Nainamadama Branch</h6>
+                    <div class="single-contact-one-inner">
                         <div class="content">
                             <div class="icone">
                                 <img src="assets/images/contact/shape/01.svg" alt="">
                             </div>
                             <div class="info">
                                 <span>Call Us 24/7</span>
-                                <a href="tel:+18475555555">
-                                    <h5>+584 (25) 21453</h5>
+                                <a href="tel:+94312256281">
+                                    <p>+94 312 256 281</p>
                                 </a>
+                                <a href="tel:+94777260850">
+                                    <p>+94 777 260 850</p>
+                                </a>
+
                             </div>
                         </div>
                     </div>
-                </div>
-                <!-- single contact area end -->
-                <!-- single contact area -->
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
+                
                     <div class="single-contact-one-inner">
-                        <div class="thumbnail">
-                            <img src="assets/images/contact/02.png" alt="">
-                        </div>
                         <div class="content">
                             <div class="icone">
                                 <img src="assets/images/contact/shape/02.svg" alt="">
                             </div>
                             <div class="info">
-                                <span>MAke A Quote</span>
-                                <a href="mailto:someone@example.com">
-                                    <h5>info@finbiz.com</h5>
+                                <span>Email</span>
+                                <a href="mailto:info@jefcocenti.com">
+                                    <p>info@jefcocenti.com</p>
                                 </a>
                             </div>
                         </div>
                     </div>
-                </div>
-                <!-- single contact area end -->
-                <!-- single contact area -->
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
+              
                     <div class="single-contact-one-inner">
-                        <div class="thumbnail">
-                            <img src="assets/images/contact/03.png" alt="">
-                        </div>
                         <div class="content">
                             <div class="icone">
                                 <img src="assets/images/contact/shape/03.svg" alt="">
                             </div>
                             <div class="info">
-                                <span>Service Station</span>
+                                <span>Address</span>
                                 <a href="#">
-                                    <h5>25 Hilton Street.</h5>
+                                    <p>Chilaw Road, Nainamadama.</p>
                                 </a>
                             </div>
                         </div>
                     </div>
+
+
                 </div>
-                <!-- single contact area end -->
-            </div>
+            </div> 
         </div>
     </div>
     <!-- conact single area end -->
