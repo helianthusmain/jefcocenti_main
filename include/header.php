@@ -1,3 +1,19 @@
+<?php
+
+$xmlData = simplexml_load_file("projects.xml");
+
+foreach ($xmlData -> children() as $value) {
+    $projectPass[]= array('client'=>$value->client,
+    'pinfo'=>$value->pinfo,
+    'pdate'=>$value->pdate,
+    'ploc'=>$value->ploc,
+    'pimg'=>$value->pimg);
+}
+
+
+
+?>
+
 <header class="header--sticky header-one ">
         <div class="header-top header-top-one bg-1">
             <div class="container">
@@ -17,7 +33,7 @@
                             <ul class="top-nav">
                                 <li><a href="about-us.php">About</a></li>
                                 <li><a href="our-service.php">Services</a></li>
-                                <li><a href="contactus.php">Contact</a></li>
+                                <li><a href="project-details-xml.php">Projects</a></li>
                             </ul>
                             <ul class="social-wrapper-one">
                                 <li><a href=""><i class="fab fa-facebook-f"></i></a></li>
@@ -48,7 +64,7 @@
                                     <li><a href="about-us.php">About Us</a></li>
                                     <li><a  href="our-service.php">Services</a> </li>
                                     <li><a  href="project-details.php">Project</a></li>
-                                    <li><a  href="products.php">Products</a></li>
+                                    <li><a  href="project-details-xml.php">Products</a></li>
                                     <li><a href="contactus.php">Contact</a></li>
                                 </ul>
                             </nav>
@@ -65,7 +81,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <a href="#" class="rts-btn btn-primary ml--20 ml_sm--5 header-one-btn quote-btn">Get Quote</a>
+                                <a href="contactus.php" class="rts-btn btn-primary ml--20 ml_sm--5 header-one-btn quote-btn">Contact Us</a>
                                 <button id="menu-btn" class="menu rts-btn btn-primary-alta ml--20 ml_sm--5">
                                     <img class="menu-dark" src="assets/images/icon/menu.png" alt="Menu-icon">
                                     <img class="menu-light" src="assets/images/icon/menu-light.png" alt="Menu-icon">

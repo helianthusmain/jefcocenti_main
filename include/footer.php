@@ -2,7 +2,7 @@
         <div class="container bg-shape-f1">
             <!-- rts footer area -->
             <div class="row pt--50 pt_sm--80 pb--80 pb_sm--40">
-                <div class="col-xl-4 col-md-6 col-sm-12 col-12">
+                <div class="col-sm">
                     <div class="footer-one-single-wized">
                         <div class="wized-title">
                             <h5 class="title">Quick Links</h5>
@@ -21,7 +21,7 @@
                     </div>
                 </div>
                 <!-- footer mid area -->
-                <div class="col-xl-4 col-md-6 col-sm-12 col-12">
+                <div class="col-sm">
                     <div class="footer-one-single-wized mid-bg">
                         <div class="wized-title">
                             <h5 class="title">Opening Hours</h5>
@@ -47,7 +47,7 @@
                 <!-- footer mid area end -->
 
                 <!-- footer end area post -->
-                <div class="col-xl-4 col-md-6 col-sm-12 col-12">
+                <div class="col-sm">
                     <div class="footer-one-single-wized margin-left-65">
                         <div class="wized-title">
                             <h5 class="title">Latest Projects</h5>
@@ -55,34 +55,29 @@
                         </div>
                         <div class="post-wrapper">
                             <!-- single post -->
+                            
+
+                            <?php  for ($i=0; $i < 2 ; $i++) { ?>
+
                             <div class="single-footer-post mb--30">
                                 <div class="left-thumbnail">
-                                    <img src="assets/images/footer/post/01.png" alt="finbiz_business-post">
+                                    <img src="assets/images/projects/<?php echo $projectPass[$i]['pimg'];?>" alt="finbiz_business-post">
                                 </div>
                                 <div class="post-right">
-                                    <p> <i class="fal fa-clock"></i> 15th April, 2022</p>
-                                    <a href="blog-details.html">
-                                        <h6 class="title">Best Business Ideas For
-                                            Getting Solution</h6>
+                                    <p> <i class="fal fa-clock"></i> <?php echo $projectPass[$i]['pdate'];?></p>
+                                    <a href="project-details-xml.php">
+                                        <h6 class="title"><?php echo $projectPass[$i]['client'];?></h6>
                                     </a>
-                                    <a class="red-more" href="blog-details.html">Read More<i class="far fa-arrow-right"></i></a>
+                                    <a class="red-more" href="project-details-xml.php">Read More<i class="far fa-arrow-right"></i></a>
                                 </div>
                             </div>
+
+                                
+                            <?php }  ?>
+
                             <!-- single post End -->
                             <!-- single post -->
-                            <div class="single-footer-post">
-                                <div class="left-thumbnail">
-                                    <img src="assets/images/footer/post/02.png" alt="finbiz_business-post">
-                                </div>
-                                <div class="post-right">
-                                    <p> <i class="fal fa-clock"></i> 15th April, 2022</p>
-                                    <a href="blog-details.html">
-                                        <h6 class="title">Best Business Ideas For
-                                            Getting Solution</h6>
-                                    </a>
-                                    <a class="red-more" href="blog-details.html">Read More<i class="far fa-arrow-right"></i></a>
-                                </div>
-                            </div>
+                            
                             <!-- single post End -->
                         </div>
                     </div>

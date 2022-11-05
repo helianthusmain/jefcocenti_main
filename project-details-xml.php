@@ -1,18 +1,4 @@
-<?php
 
-$xmlData = simplexml_load_file("projects.xml");
-
-foreach ($xmlData -> children() as $value) {
-    $projectPass[]= array('client'=>$value->client,
-    'pinfo'=>$value->pinfo,
-    'pdate'=>$value->pdate,
-    'ploc'=>$value->ploc,
-    'pimg'=>$value->pimg);
-}
-
-
-
-?>
 <!DOCTYPE html>
 <html lang="en">
 
