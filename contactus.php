@@ -49,14 +49,14 @@
 
 
                 <h6 class="text-center">Head Office</h6>
-                    <div class="single-contact-one-inner">
+                    <div class="single-contact-one-inner" style="margin-bottom:10px ;">
                         <div class="content">
                             
                             <div class="icone">
                                 <img src="assets/images/contact/shape/01.svg" alt="">
                             </div>
                             <div class="info">
-                                <span>Call Us 24/7</span>
+                                <span>Call Us</span>
                                 <a href="tel:+94112693120">
                                     <p>+94 112 693 120</p>
                                 </a>
@@ -67,7 +67,7 @@
                         </div>
                     </div>
                 
-                    <div class="single-contact-one-inner">
+                    <div class="single-contact-one-inner" style="margin-bottom:10px ;">
                         <div class="content">
                             <div class="icone">
                                 <img src="assets/images/contact/shape/02.svg" alt="">
@@ -81,7 +81,7 @@
                         </div>
                     </div>
               
-                    <div class="single-contact-one-inner">
+                    <div class="single-contact-one-inner" style="margin-bottom:10px ;">
                         <div class="content">
                             <div class="icone">
                                 <img src="assets/images/contact/shape/03.svg" alt="">
@@ -103,21 +103,24 @@
 
                 <h6 class="text-center">Negombo Branch</h6>
                 
-                <div class="single-contact-one-inner">
+                <div class="single-contact-one-inner" style="margin-bottom:10px ;">
                     <div class="content">
                         <div class="icone">
                             <img src="assets/images/contact/shape/01.svg" alt="">
                         </div>
                         <div class="info">
-                            <span>Call Us 24/7</span>
+                            <span>Call Us</span>
                             <a href="tel:+94773635256">
                                 <p>+94 773 635 256</p>
+                            </a>
+                            <a href="tel:+94773635256">
+                                <p style="color: white;">+94 773 635 256</p>
                             </a>
                         </div>
                     </div>
                 </div>
             
-                <div class="single-contact-one-inner">
+                <div class="single-contact-one-inner" style="margin-bottom:10px ;">
                     <div class="content">
                         <div class="icone">
                             <img src="assets/images/contact/shape/02.svg" alt="">
@@ -131,7 +134,7 @@
                     </div>
                 </div>
           
-                <div class="single-contact-one-inner">
+                <div class="single-contact-one-inner" style="margin-bottom:10px ;">
                     <div class="content">
                         <div class="icone">
                             <img src="assets/images/contact/shape/03.svg" alt="">
@@ -151,13 +154,13 @@
 
                 <div class="col-sm">
                 <h6 class="text-center">Nainamadama Branch</h6>
-                    <div class="single-contact-one-inner">
+                    <div class="single-contact-one-inner" style="margin-bottom:10px ;">
                         <div class="content">
                             <div class="icone">
                                 <img src="assets/images/contact/shape/01.svg" alt="">
                             </div>
                             <div class="info">
-                                <span>Call Us 24/7</span>
+                                <span>Call Us</span>
                                 <a href="tel:+94312256281">
                                     <p>+94 312 256 281</p>
                                 </a>
@@ -169,7 +172,7 @@
                         </div>
                     </div>
                 
-                    <div class="single-contact-one-inner">
+                    <div class="single-contact-one-inner" style="margin-bottom:10px ;">
                         <div class="content">
                             <div class="icone">
                                 <img src="assets/images/contact/shape/02.svg" alt="">
@@ -183,7 +186,7 @@
                         </div>
                     </div>
               
-                    <div class="single-contact-one-inner">
+                    <div class="single-contact-one-inner" style="margin-bottom:10px ;">
                         <div class="content">
                             <div class="icone">
                                 <img src="assets/images/contact/shape/03.svg" alt="">
