@@ -11,11 +11,6 @@ foreach ($xmlData -> children() as $value) {
 }
 
 
-echo count($projectPass);
-
-
-
-
 
 ?>
 <!DOCTYPE html>
