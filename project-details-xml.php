@@ -131,14 +131,13 @@ foreach ($xmlData -> children() as $value) {
 
 
 
-    <!-- project details image area end -->
 
     
-    <!-- start header area -->
+
     <!-- rts footer area start -->
     <?php include_once("include/footer.php"); ?>
     <!-- rts footer area end -->
-    <!-- ENd Header Area -->
+
 
     <!-- start loader -->
     <div class="loader-wrapper">
