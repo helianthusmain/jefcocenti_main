@@ -13,9 +13,18 @@
     <link rel="stylesheet" href="assets/css/plugins/unicons.css">
     <link rel="stylesheet" href="assets/css/vendor/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
+
+    <style>
+       .col-sm{
+        margin-bottom:13px;
+       }
+    </style>
+
+    
 </head>
 
 <body>
+   
 
     <!-- start header area -->
     <?php include_once("include/header.php"); ?>
@@ -26,13 +35,13 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 breadcrumb-1">
-                    <h1 class="title">Latest Posts</h1>
+                    <h1 class="title">Projects</h1>
                 </div>
                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
                     <div class="bread-tag">
                         <a href="index.html">Home</a>
                         <span> / </span>
-                        <a href="#" class="active">Latest Posts</a>
+                        <a href="#" class="active">Projects</a>
                     </div>
                 </div>
             </div>
@@ -45,409 +54,167 @@
     <!-- rts blog grid area -->
     <div class="rts-blog-grid-area rts-section-gap">
         <div class="container">
-            <div class="row row-cols-md-3">
-              
+            <div class="row row-cols-md-3">             
                     
                         <div class="col-sm">
                             <!-- start blog grid inner -->
                             <div class="blog-grid-inner">
                                 <div class="blog-header">
                                     <a class="thumbnail" href="blog-details.html">
-                                        <img src="assets/images/blog/grid/01.jpg" alt="Business_Blog">
+                                        <img src="assets/images/product/Low-static-pressure-duct.jpg" alt="Low-static-pressure-duct">
                                     </a>
                                     <div class="blog-info">
-                                        <div class="user">
-                                            <i class="fal fa-user-circle"></i>
-                                            <span>by Smith</span>
-                                        </div>
+                                      
                                         <div class="user">
                                             <i class="fal fa-tags"></i>
-                                            <span>Business</span>
+                                            <span>DUCT SERIES</span>
                                         </div>
-                                    </div>
-                                    <div class="date">
-                                        <h6 class="title">15</h6>
-                                        <span>Jan</span>
                                     </div>
                                 </div>
                                 <div class="blog-body">
-                                    <a href="blog-details.html">
+                                     <a href="contact.php">
                                         <h5 class="title">
-                                            Building smart business grow solution for you
+                                        Low Static Pressure Duct
                                         </h5>
-                                    </a>
+                                     </a>
                                 </div>
                             </div>
                             <!-- end blog grid inner -->
                         </div>
                         <div class="col-sm">
-                            <!-- start blog grid inner -->
-                            <div class="blog-grid-inner">
+                                   <!-- start blog grid inner -->
+                                   <div class="blog-grid-inner">
                                 <div class="blog-header">
                                     <a class="thumbnail" href="blog-details.html">
-                                        <img src="assets/images/blog/grid/02.jpg" alt="Business_Blog">
+                                        <img src="assets/images/product/Low-static-pressure-duct-slim.jpg" alt="Low-static-pressure-duct-slim">
                                     </a>
-                                    <div class="blog-info">
-                                        <div class="user">
-                                            <i class="fal fa-user-circle"></i>
-                                            <span>by Smith</span>
-                                        </div>
+                                    <div class="blog-info">                                      
                                         <div class="user">
                                             <i class="fal fa-tags"></i>
-                                            <span>Business</span>
+                                            <span>DUCT SERIES</span>
                                         </div>
-                                    </div>
-                                    <div class="date">
-                                        <h6 class="title">15</h6>
-                                        <span>Jan</span>
                                     </div>
                                 </div>
                                 <div class="blog-body">
-                                    <a href="blog-details.html">
+                                     <a href="contact.php">
                                         <h5 class="title">
-                                            Smart business grow solution for your Building.
+                                        Low Static Pressure Duct (Slim)
                                         </h5>
-                                    </a>
+                                     </a>
                                 </div>
                             </div>
                             <!-- end blog grid inner -->
                         </div>
+
                         <div class="col-sm">
-                            <!-- start blog grid inner -->
-                            <div class="blog-grid-inner">
+                                   <!-- start blog grid inner -->
+                                   <div class="blog-grid-inner">
                                 <div class="blog-header">
                                     <a class="thumbnail" href="blog-details.html">
-                                        <img src="assets/images/blog/grid/03.jpg" alt="Business_Blog">
+                                        <img src="assets/images/product/Medium-Static-Pressure-Duct.jpg" alt="Medium-Static-Pressure-Duct">
                                     </a>
                                     <div class="blog-info">
-                                        <div class="user">
-                                            <i class="fal fa-user-circle"></i>
-                                            <span>by Smith</span>
-                                        </div>
+                                      
                                         <div class="user">
                                             <i class="fal fa-tags"></i>
-                                            <span>Business</span>
+                                            <span>DUCT SERIES</span>
                                         </div>
-                                    </div>
-                                    <div class="date">
-                                        <h6 class="title">15</h6>
-                                        <span>Jan</span>
                                     </div>
                                 </div>
                                 <div class="blog-body">
-                                    <a href="blog-details.html">
+                                     <a href="contact.php">
                                         <h5 class="title">
-                                            More smart business grow solution for you
+                                        Medium Static Pressure Duct
                                         </h5>
-                                    </a>
+                                     </a>
                                 </div>
                             </div>
                             <!-- end blog grid inner -->
                         </div>
+
                         <div class="col-sm">
-                            <!-- start blog grid inner -->
-                            <div class="blog-grid-inner">
+                                   <!-- start blog grid inner -->
+                                   <div class="blog-grid-inner">
                                 <div class="blog-header">
                                     <a class="thumbnail" href="blog-details.html">
-                                        <img src="assets/images/blog/grid/04.jpg" alt="Business_Blog">
+                                        <img src="assets/images/product/Medium-Static-Pressure-Duct-(Slim).jpg" alt="Medium-Static-Pressure-Duct-(Slim)">
                                     </a>
                                     <div class="blog-info">
-                                        <div class="user">
-                                            <i class="fal fa-user-circle"></i>
-                                            <span>by Smith</span>
-                                        </div>
+                                      
                                         <div class="user">
                                             <i class="fal fa-tags"></i>
-                                            <span>Business</span>
+                                            <span>DUCT SERIES</span>
                                         </div>
-                                    </div>
-                                    <div class="date">
-                                        <h6 class="title">15</h6>
-                                        <span>Jan</span>
                                     </div>
                                 </div>
                                 <div class="blog-body">
-                                    <a href="blog-details.html">
+                                     <a href="contact.php">
                                         <h5 class="title">
-                                            Best smart business grow solution for you
+                                        Medium Static Pressure Duct (Slim)
                                         </h5>
-                                    </a>
+                                     </a>
                                 </div>
                             </div>
                             <!-- end blog grid inner -->
                         </div>
+
                         <div class="col-sm">
-                            <!-- start blog grid inner -->
-                            <div class="blog-grid-inner">
+                                   <!-- start blog grid inner -->
+                                   <div class="blog-grid-inner">
                                 <div class="blog-header">
                                     <a class="thumbnail" href="blog-details.html">
-                                        <img src="assets/images/blog/grid/05.jpg" alt="Business_Blog">
+                                        <img src="assets/images/product/High-Static-Pressure-Duct.jpg" alt="High-Static-Pressure-Duct">
                                     </a>
                                     <div class="blog-info">
-                                        <div class="user">
-                                            <i class="fal fa-user-circle"></i>
-                                            <span>by Smith</span>
-                                        </div>
+                                      
                                         <div class="user">
                                             <i class="fal fa-tags"></i>
-                                            <span>Business</span>
+                                            <span>DUCT SERIES</span>
                                         </div>
-                                    </div>
-                                    <div class="date">
-                                        <h6 class="title">15</h6>
-                                        <span>Jan</span>
                                     </div>
                                 </div>
                                 <div class="blog-body">
-                                    <a href="blog-details.html">
+                                     <a href="contact.php">
                                         <h5 class="title">
-                                            Solution your business grow solution for you
+                                        High Static Pressure Duct
                                         </h5>
-                                    </a>
+                                     </a>
                                 </div>
                             </div>
                             <!-- end blog grid inner -->
                         </div>
+
                         <div class="col-sm">
-                            <!-- start blog grid inner -->
-                            <div class="blog-grid-inner">
+                                   <!-- start blog grid inner -->
+                                   <div class="blog-grid-inner">
                                 <div class="blog-header">
                                     <a class="thumbnail" href="blog-details.html">
-                                        <img src="assets/images/blog/grid/06.jpg" alt="Business_Blog">
+                                        <img src="assets/images/product/2.5-4.jpg" alt="2.5~4.6kW">
                                     </a>
                                     <div class="blog-info">
-                                        <div class="user">
-                                            <i class="fal fa-user-circle"></i>
-                                            <span>by Smith</span>
-                                        </div>
+                                      
                                         <div class="user">
                                             <i class="fal fa-tags"></i>
-                                            <span>Business</span>
+                                            <span>DUCT SERIES</span>
                                         </div>
-                                    </div>
-                                    <div class="date">
-                                        <h6 class="title">15</h6>
-                                        <span>Jan</span>
                                     </div>
                                 </div>
                                 <div class="blog-body">
-                                    <a href="blog-details.html">
+                                     <a href="contact.php">
                                         <h5 class="title">
-                                            Smart business grow solution for your Company
+                                        2.5~4.6kW
                                         </h5>
-                                    </a>
+                                     </a>
                                 </div>
                             </div>
                             <!-- end blog grid inner -->
                         </div>
-                        <div class="col-sm">
-                            <!-- start blog grid inner -->
-                            <div class="blog-grid-inner">
-                                <div class="blog-header">
-                                    <a class="thumbnail" href="blog-details.html">
-                                        <img src="assets/images/blog/grid/07.jpg" alt="Business_Blog">
-                                    </a>
-                                    <div class="blog-info">
-                                        <div class="user">
-                                            <i class="fal fa-user-circle"></i>
-                                            <span>by Smith</span>
-                                        </div>
-                                        <div class="user">
-                                            <i class="fal fa-tags"></i>
-                                            <span>Business</span>
-                                        </div>
-                                    </div>
-                                    <div class="date">
-                                        <h6 class="title">15</h6>
-                                        <span>Jan</span>
-                                    </div>
-                                </div>
-                                <div class="blog-body">
-                                    <a href="blog-details.html">
-                                        <h5 class="title">
-                                            Latest business grow solution for you
-                                        </h5>
-                                    </a>
-                                </div>
-                            </div>
-                            <!-- end blog grid inner -->
-                        </div>
-                        <div class="col-sm">
-                            <!-- start blog grid inner -->
-                            <div class="blog-grid-inner">
-                                <div class="blog-header">
-                                    <a class="thumbnail" href="blog-details.html">
-                                        <img src="assets/images/blog/grid/08.jpg" alt="Business_Blog">
-                                    </a>
-                                    <div class="blog-info">
-                                        <div class="user">
-                                            <i class="fal fa-user-circle"></i>
-                                            <span>by Smith</span>
-                                        </div>
-                                        <div class="user">
-                                            <i class="fal fa-tags"></i>
-                                            <span>Business</span>
-                                        </div>
-                                    </div>
-                                    <div class="date">
-                                        <h6 class="title">15</h6>
-                                        <span>Jan</span>
-                                    </div>
-                                </div>
-                                <div class="blog-body">
-                                    <a href="blog-details.html">
-                                        <h5 class="title">
-                                            Thinking smart business grow solution for you
-                                        </h5>
-                                    </a>
-                                </div>
-                            </div>
-                            <!-- end blog grid inner -->
-                        </div>
-                        <div class="col-sm">
-                            <!-- start blog grid inner -->
-                            <div class="blog-grid-inner">
-                                <div class="blog-header">
-                                    <a class="thumbnail" href="blog-details.html">
-                                        <img src="assets/images/blog/grid/09.jpg" alt="Business_Blog">
-                                    </a>
-                                    <div class="blog-info">
-                                        <div class="user">
-                                            <i class="fal fa-user-circle"></i>
-                                            <span>by Smith</span>
-                                        </div>
-                                        <div class="user">
-                                            <i class="fal fa-tags"></i>
-                                            <span>Business</span>
-                                        </div>
-                                    </div>
-                                    <div class="date">
-                                        <h6 class="title">15</h6>
-                                        <span>Jan</span>
-                                    </div>
-                                </div>
-                                <div class="blog-body">
-                                    <a href="blog-details.html">
-                                        <h5 class="title">
-                                            Smart business grow solution for your building.
-                                        </h5>
-                                    </a>
-                                </div>
-                            </div>
-                            <!-- end blog grid inner -->
-                        </div>
-                        <div class="col-sm">
-                            <!-- start blog grid inner -->
-                            <div class="blog-grid-inner">
-                                <div class="blog-header">
-                                    <a class="thumbnail" href="blog-details.html">
-                                        <img src="assets/images/blog/grid/10.jpg" alt="Business_Blog">
-                                    </a>
-                                    <div class="blog-info">
-                                        <div class="user">
-                                            <i class="fal fa-user-circle"></i>
-                                            <span>by Smith</span>
-                                        </div>
-                                        <div class="user">
-                                            <i class="fal fa-tags"></i>
-                                            <span>Business</span>
-                                        </div>
-                                    </div>
-                                    <div class="date">
-                                        <h6 class="title">15</h6>
-                                        <span>Jan</span>
-                                    </div>
-                                </div>
-                                <div class="blog-body">
-                                    <a href="blog-details.html">
-                                        <h5 class="title">
-                                            Grow smart business grow solution for you
-                                        </h5>
-                                    </a>
-                                </div>
-                            </div>
-                            <!-- end blog grid inner -->
-                        </div>
-                        <div class="col-sm">
-                            <!-- start blog grid inner -->
-                            <div class="blog-grid-inner">
-                                <div class="blog-header">
-                                    <a class="thumbnail" href="blog-details.html">
-                                        <img src="assets/images/blog/grid/01.jpg" alt="Business_Blog">
-                                    </a>
-                                    <div class="blog-info">
-                                        <div class="user">
-                                            <i class="fal fa-user-circle"></i>
-                                            <span>by Smith</span>
-                                        </div>
-                                        <div class="user">
-                                            <i class="fal fa-tags"></i>
-                                            <span>Business</span>
-                                        </div>
-                                    </div>
-                                    <div class="date">
-                                        <h6 class="title">15</h6>
-                                        <span>Jan</span>
-                                    </div>
-                                </div>
-                                <div class="blog-body">
-                                    <a href="blog-details.html">
-                                        <h5 class="title">
-                                            business grow solution for you Building smart
-                                        </h5>
-                                    </a>
-                                </div>
-                            </div>
-                            <!-- end blog grid inner -->
-                        </div>
-                        <div class="col-sm">
-                            <!-- start blog grid inner -->
-                            <div class="blog-grid-inner">
-                                <div class="blog-header">
-                                    <a class="thumbnail" href="blog-details.html">
-                                        <img src="assets/images/blog/grid/02.jpg" alt="Business_Blog">
-                                    </a>
-                                    <div class="blog-info">
-                                        <div class="user">
-                                            <i class="fal fa-user-circle"></i>
-                                            <span>by Smith</span>
-                                        </div>
-                                        <div class="user">
-                                            <i class="fal fa-tags"></i>
-                                            <span>Business</span>
-                                        </div>
-                                    </div>
-                                    <div class="date">
-                                        <h6 class="title">15</h6>
-                                        <span>Jan</span>
-                                    </div>
-                                </div>
-                                <div class="blog-body">
-                                    <a href="blog-details.html">
-                                        <h5 class="title">
-                                            Building smart business grow solution for you
-                                        </h5>
-                                    </a>
-                                </div>
-                            </div>
-                            <!-- end blog grid inner -->
-                        </div>
+                        
+                        
                     
-                    <!-- pagination area -->
-                    <div class="row mt--30">
-                        <div class="col-12">
-                            <div class="text-center">
-                                <div class="pagination">
-                                    <button class="active">01</button>
-                                    <button>02</button>
-                                    <button>03</button>
-                                    <button>04</button>
-                                    <button><i class="fal fa-angle-double-right"></i></button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- pagination area End -->
+                 
+                    
+                  
                
                 <!--rts blog wized area -->
                 
