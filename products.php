@@ -45,10 +45,10 @@
     <!-- rts blog grid area -->
     <div class="rts-blog-grid-area rts-section-gap">
         <div class="container">
-            <div class="row g-5">
-                <div class="col-xl-8 col-md-12 col-sm-12 col-12 pr--40 pr_md--0 pr_sm-controler--0">
-                    <div class="row g-5">
-                        <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+            <div class="row row-cols-md-3">
+              
+                    
+                        <div class="col-sm">
                             <!-- start blog grid inner -->
                             <div class="blog-grid-inner">
                                 <div class="blog-header">
@@ -80,7 +80,7 @@
                             </div>
                             <!-- end blog grid inner -->
                         </div>
-                        <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                        <div class="col-sm">
                             <!-- start blog grid inner -->
                             <div class="blog-grid-inner">
                                 <div class="blog-header">
@@ -112,7 +112,7 @@
                             </div>
                             <!-- end blog grid inner -->
                         </div>
-                        <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                        <div class="col-sm">
                             <!-- start blog grid inner -->
                             <div class="blog-grid-inner">
                                 <div class="blog-header">
@@ -144,7 +144,7 @@
                             </div>
                             <!-- end blog grid inner -->
                         </div>
-                        <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                        <div class="col-sm">
                             <!-- start blog grid inner -->
                             <div class="blog-grid-inner">
                                 <div class="blog-header">
@@ -176,7 +176,7 @@
                             </div>
                             <!-- end blog grid inner -->
                         </div>
-                        <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                        <div class="col-sm">
                             <!-- start blog grid inner -->
                             <div class="blog-grid-inner">
                                 <div class="blog-header">
@@ -208,7 +208,7 @@
                             </div>
                             <!-- end blog grid inner -->
                         </div>
-                        <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                        <div class="col-sm">
                             <!-- start blog grid inner -->
                             <div class="blog-grid-inner">
                                 <div class="blog-header">
@@ -240,7 +240,7 @@
                             </div>
                             <!-- end blog grid inner -->
                         </div>
-                        <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                        <div class="col-sm">
                             <!-- start blog grid inner -->
                             <div class="blog-grid-inner">
                                 <div class="blog-header">
@@ -272,7 +272,7 @@
                             </div>
                             <!-- end blog grid inner -->
                         </div>
-                        <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                        <div class="col-sm">
                             <!-- start blog grid inner -->
                             <div class="blog-grid-inner">
                                 <div class="blog-header">
@@ -304,7 +304,7 @@
                             </div>
                             <!-- end blog grid inner -->
                         </div>
-                        <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                        <div class="col-sm">
                             <!-- start blog grid inner -->
                             <div class="blog-grid-inner">
                                 <div class="blog-header">
@@ -336,7 +336,7 @@
                             </div>
                             <!-- end blog grid inner -->
                         </div>
-                        <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                        <div class="col-sm">
                             <!-- start blog grid inner -->
                             <div class="blog-grid-inner">
                                 <div class="blog-header">
@@ -368,7 +368,7 @@
                             </div>
                             <!-- end blog grid inner -->
                         </div>
-                        <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                        <div class="col-sm">
                             <!-- start blog grid inner -->
                             <div class="blog-grid-inner">
                                 <div class="blog-header">
@@ -400,7 +400,7 @@
                             </div>
                             <!-- end blog grid inner -->
                         </div>
-                        <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                        <div class="col-sm">
                             <!-- start blog grid inner -->
                             <div class="blog-grid-inner">
                                 <div class="blog-header">
@@ -432,7 +432,7 @@
                             </div>
                             <!-- end blog grid inner -->
                         </div>
-                    </div>
+                    
                     <!-- pagination area -->
                     <div class="row mt--30">
                         <div class="col-12">
@@ -448,7 +448,7 @@
                         </div>
                     </div>
                     <!-- pagination area End -->
-                </div>
+               
                 <!--rts blog wized area -->
                 
                 <!-- rts- blog wized end area -->
