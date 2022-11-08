@@ -63,8 +63,8 @@ foreach ($xmlData -> children() as $value) {
                                     <li><a href="index.php">Home</a></li>
                                     <li><a href="about-us.php">About Us</a></li>
                                     <li><a  href="our-service.php">Services</a> </li>
-                                    <li><a  href="project-details.php">Project</a></li>
-                                    <li><a  href="project-details-xml.php">Products</a></li>
+                                    <li><a  href="project-details-xml.php">Project</a></li>
+                                    <li><a  href="products.php">Products</a></li>
                                     <li><a href="contactus.php">Contact</a></li>
                                 </ul>
                             </nav>
