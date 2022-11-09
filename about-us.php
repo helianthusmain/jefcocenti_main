@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Finbiz About Us (Business Consultant)</title>
+    <title>Jefco Centi</title>
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/fav.png">
     <link rel="stylesheet" href="assets/css/plugins/swiper.min.css">
     <link rel="stylesheet" href="assets/css/plugins/fontawesome-5.css">
@@ -48,14 +48,7 @@
                             <img class="mt--110 img-1" src="assets/images/about/main/about-03.jpg" alt="BUsiness_image">
                             <img class="img-over" src="assets/images/about/main/about-04.jpg" alt="BUsiness_image">
                             <div class="goal-button-wrapper">
-                                <div class="vedio-icone">
-                                    <a id="play-video" class="video-play-button" href="#">
-                                        <span></span>
-                                    </a>
-                                    <div id="video-overlay" class="video-overlay">
-                                        <a class="video-overlay-close">×</a>
-                                    </div>
-                                </div>
+                             
                             </div>
                         </div>
                     </div>
@@ -63,36 +56,45 @@
                 <div class="col-lg-6">
                     <div class="about-progress-inner">
                         <div class="title-area">
-                            <span>JUST A CONSULTANCY</span>
-                            <h2 class="title">Get Consulting For Better
-                                Business Growth</h2>
+                            <span>ABOUT US</span>
+                            <h2 class="title">WELCOME TO JEFCO CENTI</h2>
                         </div>
                         <!-- inner start -->
                         <div class="inner">
-                            <p class="disc">Dapibus curae risus rutrum curabitur nunc sociis nullam nisl, aliquet quis
-                                iaculis scelerisque primis massa imperdiet, dis senectus blandit aptent nulla cubilia
-                                sodales convallis tortor pellentesque nulla.</p>
-                            <div class="rts-progress-one-wrapper">
-                                <div class="single-progress">
-                                    <div class="progress-top">
-                                        <p class="progress-title">Business Strategy</p>
-                                        <span class="persectage">70%</span>
-                                    </div>
-                                    <div class="meter cadetblue">
-                                        <span data-progress="70" style="width:0;"></span>
-                                    </div>
-                                </div>
-                                <div class="single-progress">
-                                    <div class="progress-top">
-                                        <p class="progress-title">Company Strength</p>
-                                        <span class="persectage">93%</span>
-                                    </div>
-                                    <div class="meter">
-                                        <span data-progress="93" style="width:0;"></span>
-                                    </div>
-                                </div>
-                            </div>
-                            <a href="#" class="rts-btn btn-primary">Make an Appointment</a>
+                            <p class="disc">Jefco Centi (Private) Limited, established in 1993, has developed
+                                            into a pioneer mechanical & electronic engineering company in
+                                            the nation. As an innovative and a value driven company we have
+                                            been able to overcome the contrasting challenges in the industry
+                                            and we pride ourselves as one of the industry leaders.
+                            </p>
+
+                            <p class="disc">Over the past 28 years, we have been able to expand our areas of
+                                            expertise and in addition to all our accomplishments we have
+                                            brought to our organization, it has also opened up opportunities
+                                            for us to grow without limits. Our areas of expertise spreads from
+                                            design and construction of mechanical and electrical building
+                                            services to manufacturing, wholesaling and retailing of appliances
+                                            and consumer durables.
+                            </p>
+                            
+                            <a href="contact.php" class="rts-btn btn-primary">Make an Appointment</a>
+                        </div>
+                        <!-- end -->
+                    </div>
+                </div>
+
+                <div class="col-lg-12">
+                    <div class="about-progress-inner">                       
+                        <!-- inner start -->
+                        <div class="inner">
+                            <p class="disc">As a company which holds the CIDA EM2 certificate of merit, we
+                                            have a team of well qualified and experienced staff along with
+                                            modern day workshops, manufacturing & production facilities,
+                                            warehousing facilities and office complex. Backed by our vast
+                                            experience in the industry, the company has reworked on its core
+                                            values and management systems to provide a remarkable service
+                                            to its clients, employees, subcontractors and stakeholders.
+                            </p>
                         </div>
                         <!-- end -->
                     </div>
@@ -102,189 +104,68 @@
     </div>
     <!-- rts about us section end -->
 
-    <!-- rts services area start -->
-    <div class="rts-service-area rts-section-gapBottom">
-        <div class="container-fluid service-main about-service-width-controler">
-            <div class="background-service service-three row">
-                <div class="row g-5">
-                    <div class="rts-title-area service-four text-center pt--40 pt_md--0 mt_sm--0 mt_md--0">
-                        <p class="pre-title">
-                            Our Services
-                        </p>
-                        <h2 class="title">What We Provide</h2>
-                    </div>
-                    <!-- start single Service -->
-                    <div class="col-xl-4 col-md-6 col-sm-12 col-12 pt--15 mb--80 mb_md--40 mb_sm--30">
-                        <div class="service-one-inner-four">
-                            <div class="big-thumbnail-area">
-                                <a href="#" class="thumbnail">
-                                    <img src="assets/images/service/07.jpg" alt="Business-service">
-                                </a>
-                                <div class="content">
-                                    <img src="assets/images/service/icon/13.svg" alt="Business-icon">
-                                    <h5 class="title">Business Consultancy</h5>
-                                    <p class="disc">Aenean augue venenatis est porttitor fames aptent lobortis nam
-                                        potenti</p>
-                                </div>
-                                <a href="service-details.html" class="over_link"></a>
-                            </div>
-                            <a href="service-details.html" class="rts-btn btn-primary"> Read More<i
-                                    class="fal fa-arrow-right"></i></a>
+    <!-- rts about us section start -->
+    <div class="rts-about-area rts-section-gap">
+        <div class="container">
+            <div class="row g-5 align-items-center">
+                <div class="col-lg-6">
+                    <div class="about-progress-inner">
+                        <div class="title-area">
+                            <span>HISTORY</span>
                         </div>
-                    </div>
-                    <!-- start single Service -->
-                    <div class="col-xl-4 col-md-6 col-sm-12 col-12 pt--15 mb--80 mb_md--40 mb_sm--30">
-                        <div class="service-one-inner-four">
-                            <div class="big-thumbnail-area">
-                                <a href="#" class="thumbnail">
-                                    <img src="assets/images/service/08.jpg" alt="Business-service">
-                                </a>
-                                <div class="content">
-                                    <img src="assets/images/service/icon/14.svg" alt="Business-icon">
-                                    <h5 class="title">Business Appoinment</h5>
-                                    <p class="disc">Aenean augue venenatis est porttitor fames aptent lobortis nam
-                                        potenti</p>
-                                </div>
-                                <a href="service-details.html" class="over_link"></a>
-                            </div>
-                            <a href="service-details.html" class="rts-btn btn-primary"> Read More<i
-                                    class="fal fa-arrow-right"></i></a>
+                        <!-- inner start -->
+                        <div class="inner">
+                            <p class="disc">Jefco Centi (Private) Limited was established earlier as Jefco Air
+                                            Engineering (Private) Limited and was later incorporated as Jefco
+                                            Centi (Private) Limited. From the commencement of our first Auto
+                                            A/C electrical and refrigeration workshop in Nainamadama, Sri
+                                            Lanka, we have opened up two new branches in Colombo (Hyde
+                                            Park Corner) and in Negombo (2002).
+                            </p>
+
+                            <p class="disc">We stepped into Auto air conditioning in the year 1993 and have
+                                            expanded our areas of specialization to Electrical, Refrigeration,
+                                            Heating Ventilation & Air Conditioning (HVAC), Industrial Exhaust,
+                                            Sanitary Installation and Fire Protection, Metal Duct Fabrication
+                                            for HVAC Systems, Welding & Other types of Steel Fabrication,
+                                            Drafting, wholesaling and Retailing of Consumer Durables,
+                                            Assembling and Production of Commercial Air Conditioning Units
+                                            and Supplier of Furniture, Fixtures, Equipment, Machinery and
+                                            Light Fittings for commercial building projects.
+
+                            </p>
+                            
                         </div>
+                        <!-- end -->
                     </div>
-                    <!-- start single Service -->
-                    <div class="col-xl-4 col-md-6 col-sm-12 col-12 pt--15 mb--80">
-                        <div class="service-one-inner-four">
-                            <div class="big-thumbnail-area">
-                                <a href="#" class="thumbnail">
-                                    <img src="assets/images/service/09.jpg" alt="Business-service">
-                                </a>
-                                <div class="content">
-                                    <img src="assets/images/service/icon/15.svg" alt="Business-icon">
-                                    <h5 class="title">Consultancy Foundation</h5>
-                                    <p class="disc">Aenean augue venenatis est porttitor fames aptent lobortis nam
-                                        potenti</p>
-                                </div>
-                                <a href="service-details.html" class="over_link"></a>
-                            </div>
-                            <a href="service-details.html" class="rts-btn btn-primary"> Read More<i
-                                    class="fal fa-arrow-right"></i></a>
+                </div>
+
+                
+                <div class="col-lg-6">
+                    <div class="about-image-v-inner">
+                        <div class="image-area">
+                            <img class="mt--110 img-1" src="assets/images/about/main/about-06.jpg" alt="BUsiness_image">
+                            <img class="img-over" src="assets/images/about/main/about-07.jpg" alt="BUsiness_image">
+                          
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="row">
-                <div class="cta-one-bg col-12">
-                    <div class="cta-one-inner">
-                        <div class="cta-left">
-                            <h3 class="title animated fadeIn">Let’s discuss about how we can help
-                                make your business better</h3>
-                        </div>
-                        <div class="cta-right">
-                            <a class="rts-btn btn-white" href="#">Lets Work Togather</a>
-                        </div>
-                    </div>
-                </div>
+
+                
             </div>
         </div>
     </div>
+    <!-- rts about us section end -->
+
+  
+  
+  
+  
+    <!-- rts services area start -->
+   
     <!-- rts services area End -->
 
-    <!-- rts team two area -->
-    <div class="rts-team-area rts-section-gapBottom appoinment-team team-two">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="rts-title-area team text-center">
-                        <p class="pre-title">
-                            Professionals Team
-                        </p>
-                        <h2 class="title">Professionals Team</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="row g-5 mt--15 mt_sm--0">
-                <!-- single team -->
-                <div class="col-xl-4 col-md-6 col-sm-12 col-12">
-                    <!-- single team inner -->
-                    <div class="team-inner-two">
-                        <a href="team-details.html" class="thumbnail">
-                            <img src="assets/images/team/tm/lg-01.jpg" alt="">
-                        </a>
-                        <!-- Acquaintance area -->
-                        <div class="acquaintance-area">
-                            <div class="header">
-                                <a href="team-details.html">
-                                    <h5 class="title">Kevin Martin</h5>
-                                </a>
-                                <span>Consultant</span>
-                            </div>
-                            <div class="acquaintance-social">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="#"><i class="fab fa-instagram"></i></a>
-                            </div>
-                        </div>
-                        <!-- Acquaintance area -->
-                    </div>
-                    <!-- single team inner End -->
-                </div>
-                <!-- single team End -->
-                <!-- single team -->
-                <div class="col-xl-4 col-md-6 col-sm-12 col-12">
-                    <!-- single team inner -->
-                    <div class="team-inner-two">
-                        <a href="team-details.html" class="thumbnail">
-                            <img src="assets/images/team/tm/lg-02.jpg" alt="">
-                        </a>
-                        <!-- Acquaintance area -->
-                        <div class="acquaintance-area">
-                            <div class="header">
-                                <a href="team-details.html">
-                                    <h5 class="title">Martin Jone</h5>
-                                </a>
-                                <span>Manager</span>
-                            </div>
-                            <div class="acquaintance-social">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="#"><i class="fab fa-instagram"></i></a>
-                            </div>
-                        </div>
-                        <!-- Acquaintance area -->
-                    </div>
-                    <!-- single team inner End -->
-                </div>
-                <!-- single team End -->
-                <!-- single team -->
-                <div class="col-xl-4 col-md-6 col-sm-12 col-12">
-                    <!-- single team inner -->
-                    <div class="team-inner-two">
-                        <a href="team-details.html" class="thumbnail">
-                            <img src="assets/images/team/tm/lg-03.jpg" alt="">
-                        </a>
-                        <!-- Acquaintance area -->
-                        <div class="acquaintance-area">
-                            <div class="header">
-                                <a href="team-details.html">
-                                    <h5 class="title">Jone Lee</h5>
-                                </a>
-                                <span>CEO</span>
-                            </div>
-                            <div class="acquaintance-social">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="#"><i class="fab fa-instagram"></i></a>
-                            </div>
-                        </div>
-                        <!-- Acquaintance area -->
-                    </div>
-                    <!-- single team inner End -->
-                </div>
-                <!-- single team End -->
-            </div>
-        </div>
-    </div>
-    <!-- rts team two area End -->
+   
 
     <!-- rts faq section area -->
     <div class="rts-faq-section rts-section-gap rts-faq-bg bg_image">
