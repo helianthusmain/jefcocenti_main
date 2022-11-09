@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Finbiz Our Services (Business Consultant)</title>
+    <title>Jefco Centi</title>
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/fav.png">
     <link rel="stylesheet" href="assets/css/plugins/swiper.min.css">
     <link rel="stylesheet" href="assets/css/plugins/fontawesome-5.css">
@@ -47,15 +47,15 @@
                 <!-- single service area -->
                 <div class="col-xl-4 col-md-6 col-sm-12 col-12 pb--140 pb_md--100">
                     <div class="service-two-inner">
-                        <a href="service-details.html" class="thumbnail"><img src="assets/images/service/02.jpg" alt="Business_image"></a>
+                        <a href="project-details-xml.php" class="thumbnail"><img src="assets/images/service/02.jpg" alt="Business_image"></a>
                         <div class="body-content">
                             <div class="hidden-area">
-                                <h5 class="title">Strategy Growth</h5>
+                                <h5 class="title">Electrical</h5>
                                 <p class="dsic">
-                                    Porta sagittis diam imperdiet eu, tempus nisi aenean vehicula torquent dis mattis nullam
-                                    bibendum morbi laoreet lobortis id
+                                Electrical engineering is an engineering discipline concerned with the study, design, and application of equipment, devices, and systems which use electricity, electronics, and electromagnetism.
                                 </p>
-                                <a class="rts-read-more-two color-primary" href="service-details.html">Read More<i class="far fa-arrow-right"></i></a>
+                                <a class="rts-read-more-two color-primary" href="project-details-xml.php">Read More<i class="far fa-arrow-right"></i></a>
+                              
                             </div>
                         </div>
                     </div>
@@ -64,15 +64,14 @@
                 <!-- single service area -->
                 <div class="col-xl-4 col-md-6 col-sm-12 col-12 pb--140 pb_md--100">
                     <div class="service-two-inner">
-                        <a href="service-details.html" class="thumbnail two"><img src="assets/images/service/03.jpg" alt="Business_image"></a>
+                        <a href="project-details-xml.php" class="thumbnail two"><img src="assets/images/service/03.jpg" alt="Business_image"></a>
                         <div class="body-content">
                             <div class="hidden-area">
-                                <h5 class="title">Grow Business</h5>
+                                <h5 class="title">Heating, Ventilation & Air Conditioning (HVAC)</h5>
                                 <p class="dsic">
-                                    Porta sagittis diam imperdiet eu, tempus nisi aenean vehicula torquent dis mattis nullam
-                                    bibendum morbi laoreet lobortis id
+                                Electrical engineering is an engineering discipline concerned with the study, design, and application of equipment, devices, and systems which use electricity, electronics, and electromagnetism.
                                 </p>
-                                <a class="rts-read-more-two color-primary" href="service-details.html">Read More<i class="far fa-arrow-right"></i></a>
+                                <a class="rts-read-more-two color-primary" href="project-details-xml.php">Read More<i class="far fa-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -81,367 +80,28 @@
                 <!-- single service area -->
                 <div class="col-xl-4 col-md-6 col-sm-12 col-12 pb--140 pb_md--100">
                     <div class="service-two-inner">
-                        <a href="service-details.html" class="thumbnail three"><img src="assets/images/service/04.jpg" alt="Business_image"></a>
+                        <a href="project-details-xml.php" class="thumbnail three"><img src="assets/images/service/04.jpg" alt="Business_image"></a>
                         <div class="body-content">
                             <div class="hidden-area">
-                                <h5 class="title">Proudly Speech</h5>
+                                <h5 class="title">Motor Vehicle Air Conditioning (MVAC)</h5>
                                 <p class="dsic">
-                                    Porta sagittis diam imperdiet eu, tempus nisi aenean vehicula torquent dis mattis nullam
-                                    bibendum morbi laoreet lobortis id
+                                Electrical engineering is an engineering discipline concerned with the study, design, and application of equipment, devices, and systems which use electricity, electronics, and electromagnetism.
                                 </p>
-                                <a class="rts-read-more-two color-primary" href="service-details.html">Read More<i class="far fa-arrow-right"></i></a>
+                                <a class="rts-read-more-two color-primary" href="project-details-xml.php">Read More<i class="far fa-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>
                 </div>
                 <!-- single service area end-->
-                <!-- single service area -->
-                <div class="col-xl-4 col-md-6 col-sm-12 col-12 pb--140 pb_md--100">
-                    <div class="service-two-inner">
-                        <a href="service-details.html" class="thumbnail"><img src="assets/images/service/02.jpg" alt="Business_image"></a>
-                        <div class="body-content">
-                            <div class="hidden-area">
-                                <h5 class="title">Model Building</h5>
-                                <p class="dsic">
-                                    Porta sagittis diam imperdiet eu, tempus nisi aenean vehicula torquent dis mattis nullam
-                                    bibendum morbi laoreet lobortis id
-                                </p>
-                                <a class="rts-read-more-two color-primary" href="service-details.html">Read More<i class="far fa-arrow-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- single service area end-->
-                <!-- single service area -->
-                <div class="col-xl-4 col-md-6 col-sm-12 col-12 pb--140 pb_md--60">
-                    <div class="service-two-inner">
-                        <a href="service-details.html" class="thumbnail two"><img src="assets/images/service/03.jpg" alt="Business_image"></a>
-                        <div class="body-content">
-                            <div class="hidden-area">
-                                <h5 class="title">Solution Model</h5>
-                                <p class="dsic">
-                                    Porta sagittis diam imperdiet eu, tempus nisi aenean vehicula torquent dis mattis nullam
-                                    bibendum morbi laoreet lobortis id
-                                </p>
-                                <a class="rts-read-more-two color-primary" href="service-details.html">Read More<i class="far fa-arrow-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- single service area end-->
-                <!-- single service area -->
-                <div class="col-xl-4 col-md-6 col-sm-12 col-12 pb--140 pb_md--60 pb_sm--60">
-                    <div class="service-two-inner">
-                        <a href="service-details.html" class="thumbnail three"><img src="assets/images/service/04.jpg" alt="Business_image"></a>
-                        <div class="body-content">
-                            <div class="hidden-area">
-                                <h5 class="title">Finbiz Solution</h5>
-                                <p class="dsic">
-                                    Porta sagittis diam imperdiet eu, tempus nisi aenean vehicula torquent dis mattis nullam
-                                    bibendum morbi laoreet lobortis id
-                                </p>
-                                <a class="rts-read-more-two color-primary" href="service-details.html">Read More<i class="far fa-arrow-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- single service area end-->
+               
+              
             </div>
         </div>
     </div>
     <!-- our service area end -->
 
-    <!-- service accordion area -->
-    <div class="rts-accordion-area service rts-section-gap">
-        <div class="accordion-service-bg bg_image ptb--120 ptb_md--80 ptb_sm--60">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-6">
-                        <div class="accordion-service-inner">
-                            <div class="title-area-start">
-                                <span class="sub color-primary">JUST A CONSULTANCY</span>
-                                <h2 class="title">We know how to manage
-                                    business globally</h2>
-                            </div>
-                            <div class="accordion-area">
-                                <div class="accordion" id="accordionExample">
-                                    <div class="accordion-item">
-                                        <h2 class="accordion-header" id="headingOne">
-                                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                                Making Easy Business Growth
-                                            </button>
-                                        </h2>
-                                        <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-                                            <div class="accordion-body">
-                                                Neque parturient sed nascetur facilisis suscipit ridiculus magna lobortis imperdiet vivamus est aliquam euismod nec quam convallis ornare justo
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="accordion-item">
-                                        <h2 class="accordion-header" id="headingTwo">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                Business Solution Model
-                                            </button>
-                                        </h2>
-                                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
-                                            <div class="accordion-body">
-                                                Neque parturient sed nascetur facilisis suscipit ridiculus magna lobortis imperdiet vivamus est aliquam euismod nec quam convallis ornare justo
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="accordion-item">
-                                        <h2 class="accordion-header" id="headingThree">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                                Finbiz Company Solution
-                                            </button>
-                                        </h2>
-                                        <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
-                                            <div class="accordion-body">
-                                                Neque parturient sed nascetur facilisis suscipit ridiculus magna lobortis imperdiet vivamus est aliquam euismod nec quam convallis ornare justo
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="accordion-item">
-                                        <h2 class="accordion-header" id="headingFour">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                                Management Process
-                                            </button>
-                                        </h2>
-                                        <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
-                                            <div class="accordion-body">
-                                                Neque parturient sed nascetur facilisis suscipit ridiculus magna lobortis imperdiet vivamus est aliquam euismod nec quam convallis ornare justo
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="accordion-item">
-                                        <h2 class="accordion-header" id="headingFive">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                                Managing Invesment
-                                            </button>
-                                        </h2>
-                                        <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
-                                            <div class="accordion-body">
-                                                Neque parturient sed nascetur facilisis suscipit ridiculus magna lobortis imperdiet vivamus est aliquam euismod nec quam convallis ornare justo
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- service accordion area End -->
 
-    <!-- start pricing area -->
-    <div class="rts-pricing-area rts-section-gapBottom">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="rts-title-area pricing-planes text-center">
-                        <p class="pre-title">
-                            What We Offer
-                        </p>
-                        <h2 class="title">Packages & Pricing</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="row g-5 mt--50">
-                <!-- single pricing plane -->
-                <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12 col-12">
-                    <div class="pricing-wrapper-one">
-                        <div class="plane-process">
-                            <span>/month</span>
-                            <h3 class="title">$260</h3>
-                        </div>
-                        <!-- pricing header -->
-                        <div class="pricing-header-start">
-                            <span class="pre-title">Starter Package</span>
-                            <h4 class="title">
-                                Basic Plan
-                            </h4>
-                        </div>
-                        <!-- pricing header End -->
-                        <!-- pricing body start -->
-                        <div class="pricing-body">
-                            <!-- single pricing -->
-                            <div class="single-pricing available">
-                                <div class="icon">
-                                    <i class="far fa-check"></i>
-                                </div>
-                                <span class="price-details">Business Solution</span>
-                            </div>
-                            <!-- single pricing End -->
-                            <!-- single pricing -->
-                            <div class="single-pricing available">
-                                <div class="icon">
-                                    <i class="far fa-check"></i>
-                                </div>
-                                <span class="price-details">24/7 Consultant Service</span>
-                            </div>
-                            <!-- single pricing End -->
-                            <!-- single pricing -->
-                            <div class="single-pricing available">
-                                <div class="icon">
-                                    <i class="far fa-check"></i>
-                                </div>
-                                <span class="price-details">Great Customer Support</span>
-                            </div>
-                            <!-- single pricing End -->
-                            <!-- single pricing -->
-                            <div class="single-pricing ">
-                                <div class="icon">
-                                    <i class="far fa-check"></i>
-                                </div>
-                                <span class="price-details">Market Growth Solution</span>
-                            </div>
-                            <!-- single pricing End -->
-                            <!-- single pricing -->
-                            <div class="single-pricing">
-                                <div class="icon">
-                                    <i class="far fa-check"></i>
-                                </div>
-                                <span class="price-details">24/7 Consultant Service</span>
-                            </div>
-                            <!-- single pricing End -->
-                            <a class="rts-btn btn-primary" href="#">Buy This</a>
-                        </div>
-                        <!-- pricing body end -->
-                    </div>
-                </div>
-                <!-- single pricing plane -->
-                <!-- single pricing plane -->
-                <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12 col-12 mt_sm--80">
-                    <div class="pricing-wrapper-one">
-                        <div class="plane-process">
-                            <span>/month</span>
-                            <h3 class="title">$260</h3>
-                        </div>
-                        <!-- pricing header -->
-                        <div class="pricing-header-start">
-                            <span class="pre-title">Starter Package</span>
-                            <h4 class="title">
-                                Basic Plan
-                            </h4>
-                        </div>
-                        <!-- pricing header End -->
-                        <!-- pricing body start -->
-                        <div class="pricing-body">
-                            <!-- single pricing -->
-                            <div class="single-pricing available">
-                                <div class="icon">
-                                    <i class="far fa-check"></i>
-                                </div>
-                                <span class="price-details">Business Solution</span>
-                            </div>
-                            <!-- single pricing End -->
-                            <!-- single pricing -->
-                            <div class="single-pricing available">
-                                <div class="icon">
-                                    <i class="far fa-check"></i>
-                                </div>
-                                <span class="price-details">24/7 Consultant Service</span>
-                            </div>
-                            <!-- single pricing End -->
-                            <!-- single pricing -->
-                            <div class="single-pricing available">
-                                <div class="icon">
-                                    <i class="far fa-check"></i>
-                                </div>
-                                <span class="price-details">Great Customer Support</span>
-                            </div>
-                            <!-- single pricing End -->
-                            <!-- single pricing -->
-                            <div class="single-pricing ">
-                                <div class="icon">
-                                    <i class="far fa-check"></i>
-                                </div>
-                                <span class="price-details">Market Growth Solution</span>
-                            </div>
-                            <!-- single pricing End -->
-                            <!-- single pricing -->
-                            <div class="single-pricing">
-                                <div class="icon">
-                                    <i class="far fa-check"></i>
-                                </div>
-                                <span class="price-details">24/7 Consultant Service</span>
-                            </div>
-                            <!-- single pricing End -->
-                            <a class="rts-btn btn-primary" href="#">Buy This</a>
-                        </div>
-                        <!-- pricing body end -->
-                    </div>
-                </div>
-                <!-- single pricing plane -->
-                <!-- single pricing plane -->
-                <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12 col-12 mt_md--80 mt_sm--80">
-                    <div class="pricing-wrapper-one">
-                        <div class="plane-process">
-                            <span>/month</span>
-                            <h3 class="title">$260</h3>
-                        </div>
-                        <!-- pricing header -->
-                        <div class="pricing-header-start">
-                            <span class="pre-title">Starter Package</span>
-                            <h4 class="title">
-                                Basic Plan
-                            </h4>
-                        </div>
-                        <!-- pricing header End -->
-                        <!-- pricing body start -->
-                        <div class="pricing-body">
-                            <!-- single pricing -->
-                            <div class="single-pricing available">
-                                <div class="icon">
-                                    <i class="far fa-check"></i>
-                                </div>
-                                <span class="price-details">Business Solution</span>
-                            </div>
-                            <!-- single pricing End -->
-                            <!-- single pricing -->
-                            <div class="single-pricing available">
-                                <div class="icon">
-                                    <i class="far fa-check"></i>
-                                </div>
-                                <span class="price-details">24/7 Consultant Service</span>
-                            </div>
-                            <!-- single pricing End -->
-                            <!-- single pricing -->
-                            <div class="single-pricing available">
-                                <div class="icon">
-                                    <i class="far fa-check"></i>
-                                </div>
-                                <span class="price-details">Great Customer Support</span>
-                            </div>
-                            <!-- single pricing End -->
-                            <!-- single pricing -->
-                            <div class="single-pricing ">
-                                <div class="icon">
-                                    <i class="far fa-check"></i>
-                                </div>
-                                <span class="price-details">Market Growth Solution</span>
-                            </div>
-                            <!-- single pricing End -->
-                            <!-- single pricing -->
-                            <div class="single-pricing">
-                                <div class="icon">
-                                    <i class="far fa-check"></i>
-                                </div>
-                                <span class="price-details">24/7 Consultant Service</span>
-                            </div>
-                            <!-- single pricing End -->
-                            <a class="rts-btn btn-primary" href="#">Buy This</a>
-                        </div>
-                        <!-- pricing body end -->
-                    </div>
-                </div>
-                <!-- single pricing plane -->
-            </div>
-        </div>
-    </div>
-    <!-- end pricing area -->
+
 
     <!-- start header area -->
     <!-- rts footer area start -->
