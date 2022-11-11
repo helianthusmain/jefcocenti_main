@@ -64,6 +64,7 @@
     <div class="rts-about-area rts-section-gap">
         <div class="container">
             <div class="row g-5 align-items-center">
+
                 <div class="col-lg-6">
                     <div class="about-image-v-inner">
                         <div class="image-area">
@@ -73,6 +74,7 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="col-lg-6">
                     <div class="about-progress-inner">
                         <div class="title-area">
@@ -116,6 +118,8 @@
                         <!-- end -->
                     </div>
                 </div>
+
+                
             </div>
         </div>
     </div>
