@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="assets/css/plugins/unicons.css">
     <link rel="stylesheet" href="assets/css/vendor/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/timeline.css">
 
     <style>
     p {
@@ -33,7 +34,13 @@
         color: #df0a0a;
         display: inline;
         font-weight: 700;
+        z-index: 100;
     }
+
+    .title-area{
+        z-index: 100;
+    }
+
     </style>
 </head>
 
@@ -64,6 +71,7 @@
     <div class="rts-about-area rts-section-gap">
         <div class="container">
             <div class="row g-5 align-items-center">
+
 
                 <div class="col-lg-6">
                     <div class="about-image-v-inner">
@@ -119,11 +127,13 @@
                     </div>
                 </div>
 
-                
+
             </div>
         </div>
     </div>
     <!-- rts about us section end -->
+
+
 
 
     <!-- rts faq section area -->
@@ -284,8 +294,10 @@
                             <ul class="disc">
                                 <li class="disc">We undertake the impossible and strive ourselves to be the pioneer</li>
                                 <li class="disc">We consider customer satisfaction above all else</li>
-                                <li class="disc">We give our fullest consideration to each & every employee and treat each employee with dignity, as an individual</li>
-                                <li class="disc">We know our responsibility and contribution to the communities in which we ope</li>
+                                <li class="disc">We give our fullest consideration to each & every employee and treat
+                                    each employee with dignity, as an individual</li>
+                                <li class="disc">We know our responsibility and contribution to the communities in which
+                                    we ope</li>
                             </ul>
                         </div>
                     </div>
@@ -299,8 +311,77 @@
     </div>
     <!-- customers feed back area end -->
 
+    <div class="rts-about-area rts-section-gap">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="about-progress-inner">
+                    <div class="title-area">
+                        <span>JEFCO CENTI</span>
+                        <h2 class="title">HISTORY</h2>
+                    </div>
+                </div>
 
-    
+                <div class="line">
+
+                    <div class="point">
+                        <p>1993</p>
+                    </div>
+                    <div class="point">
+                        <p>1997</p>
+                    </div>
+                    <div class="point">
+                        <p>2001</p>
+                    </div>
+                    <div class="point">
+                        <p>2005</p>
+                    </div>
+                    <div class="point">
+                        <p>2009</p>
+                    </div>
+                    <div class="point">
+                        <p>2017</p>
+                    </div>
+                    <div class="point frt" style="float: right;">
+                        <p>2020</p>
+                    </div>
+
+                </div>
+                <div class="row justify-content-end">
+                <div class="col-8 align-self-end">
+                <div class="inner">
+                    <article>
+                        <p class="disc">
+                            Jefco Centi (Private) Limited was established earlier as Jefco Air
+                            Engineering (Private) Limited and was later incorporated as Jefco
+                            Centi (Private) Limited. From the commencement of our first Auto
+                            A/C electrical and refrigeration workshop in Nainamadama, Sri
+                            Lanka, we have opened up two new branches in Colombo (Hyde
+                            Park Corner) and in Negombo (2002).
+                        </p>
+                        <p class="disc">
+                            We stepped into Auto air conditioning in the year 1993 and have
+                            expanded our areas of specialization to Electrical, Refrigeration,
+                            Heating Ventilation & Air Conditioning (HVAC), Industrial Exhaust,
+                            Sanitary Installation and Fire Protection, Metal Duct Fabrication
+                            for HVAC Systems, Welding & Other types of Steel Fabrication,
+                            Drafting, wholesaling and Retailing of Consumer Durables,
+                            Assembling and Production of Commercial Air Conditioning Units
+                            and Supplier of Furniture, Fixtures, Equipment, Machinery and
+                            Light Fittings for commercial building projects.
+                        </p>
+                    </article>
+                </div>
+                </div>
+                </div>
+                <div class="imgBox">
+                   
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+
 
     <!-- start header area -->
     <!-- rts footer area start -->

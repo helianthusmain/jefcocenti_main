@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Bubbles&display=swap');
+
+.line{
+    width: 100vw;
+	height: 100px;
+    margin: 10px;
+  
+}
+.point{
+	float: left;
+	position: relative;
+	box-sizing: border-box;
+    width: 12.5vw;
+    height: 30px;
+    box-sizing: border-box;
+    margin-top: 5px;
+    z-index: 100;
+}
+.point p{
+   
+    margin-right: 10px;
+    margin-left: 10px;
+    color: rgba(255, 255, 255, 0);
+    font-weight: 700;
+    animation: textanimate 5s linear infinite;
+    font-size: 25px;
+    font-family: 'Rubik Bubbles', cursive;
+    
+
+}
+.point p:nth-child(even){
+    animation-delay: 0.4s;
+}
+.point .frt{
+    float: right;
+}
+
+.point .frt p{
+   
+    margin-right: 10px;
+    margin-left: 10px;
+    color: rgba(255, 255, 255, 0);
+    font-weight: 100;
+    animation: textanimate 5s linear infinite;
+    font-family: 'Rubik Bubbles', cursive;
+}
+
+
+
+@keyframes textanimate{
+    0%,18%,20%,50.1%,60%,65.1%,80%,90.1%,92%{
+        color: #fffbca28;
+        text-shadow: none;
+    }
+    25%,50%,70%,90%{
+        color: #cfbb07fd;
+
+        text-shadow: 0 0 10px rgb(241, 220, 28),
+        0 0 20px rgb(241, 220, 28),
+        0 0 40px rgb(241, 220, 28),
+        0 0 80px rgb(241, 220, 28),
+        0 0 160px rgb(241, 220, 28),
+        0 0 400px rgb(241, 220, 28);
+    
+    }
+
+
+    18.1%,20.1%,30%,50%,60.1%,65%,80.1%,90%,92.1%,100%{
+        color: #f7990cd8;
+        text-shadow: 0 0 10px rgb(241, 220, 28),
+        0 0 20px rgb(241, 220, 28),
+        0 0 40px rgb(241, 220, 28),
+        0 0 80px rgb(241, 220, 28),
+        0 0 160px rgb(241, 220, 28),
+        0 0 400px rgb(241, 220, 28);
+
+    }
+
+}
+
+.imgBox{
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 100%;
+    height: 100vw;
+    background-image: url("../images/about/main/wirepass.png");
+    transform: translateY(-85px);
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+@media only screen and (max-width: 600px) {
+    .imgBox {
+        height: 100%;
+    }
+  }
+
+
+
+
