@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GIt Change DAYT</title>
+    <title>Jefco - Centi</title>
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/fav.png">
     <link rel="stylesheet" href="assets/css/plugins/swiper.min.css">
     <link rel="stylesheet" href="assets/css/plugins/fontawesome-5.css">
@@ -29,14 +29,12 @@
                     <!-- banner single content -->
                     <div class="banner-one-inner text-start">
                         <p class="pre-title">
-                            <span>Welcome!</span> Start Growing Your Business Today
+                            <span>Welcome!</span> to Jefco Centi
                         </p>
                         <h1 class="title ">Make <span>Business Unique </span> <br>
                             With Great Ideas</h1>
                         <p class="disc banner-para">
-                            Porttitor ornare fermentum aliquam pharetra facilisis gravida risus suscipit <br> Dui
-                            feugiat
-                            fusce conubia ridiculus tristique parturient
+                        We undertake the impossible and strive ourselves to be the pioneer
                         </p>
                         <a href="#" class="rts-btn btn-primary color-h-black">Get Consultant</a>
                         <img class="shape-img one" src="assets/images/banner/shape/01.png" alt="banner_business">
@@ -97,15 +95,19 @@
                         <p class="pre-title">
                             More About Us
                         </p>
-                        <h2 class="title">We Provide Best Business
-                            Solution in Town</h2>
+                        <h2 class="title">Mechanical & Electronic Engineering Company in Sri Lanka </h2>
                     </div>
                     <div class="about-inner">
                         <p class="disc">
-                            Porttitor ornare fermentum aliquam pharetra ut facilisis gravida risus suscipit. dui feugiat
-                            fusce conubia ridiculus tristique parturient natoque vulputate risu
-                            business solution ceter 24/7 great support
+                        Jefco Centi (Private) Limited, established in 1993, has developed
+                        into a pioneer mechanical & electronic engineering company in
+                        the nation. As an innovative and a value driven company we have
+                        been able to overcome the contrasting challenges in the industry
+                        and we pride ourselves as one of the industry leaders.
+                        <a class="rts-read-more btn-primary" href="service-details.html"><i class="far fa-arrow-right"></i>Read
+                                More</a>
                         </p>
+                     
                         <!-- start about success area -->
                         <div class="row about-success-wrapper">
                             <!-- left wrapper start -->
@@ -114,30 +116,16 @@
                                     <i class="far fa-check"></i>
                                     <p class="details">24/7 Call Services Avilable</p>
                                 </div>
-                                <div class="single">
-                                    <i class="far fa-check"></i>
-                                    <p class="details">Great Skilled Consultant</p>
-                                </div>
-                                <div class="single">
-                                    <i class="far fa-check"></i>
-                                    <p class="details">Expert Team Members</p>
-                                </div>
                             </div>
                             <!-- left wrapper end -->
                             <div class="col-lg-6 col-md-6">
                                 <div class="single">
                                     <i class="far fa-check"></i>
-                                    <p class="details">How to improve business
+                                    <p class="details">Expert Team Members
                                     </p>
                                 </div>
-                                <div class="single">
-                                    <i class="far fa-check"></i>
-                                    <p class="details">Business is the best plan</p>
-                                </div>
-                                <div class="single">
-                                    <i class="far fa-check"></i>
-                                    <p class="details">Services we provide</p>
-                                </div>
+                            
+                               
                             </div>
                         </div>
                         <!-- start about success area -->
@@ -148,11 +136,11 @@
                             <div class="col-lg-6 col-md-6 col-sm-6 col-12">
                                 <div class="author-inner">
                                     <a class="thumbnail" href="#"><img src="assets/images/about/sm-01.png" alt="finbiz_founder"></a>
-                                    <div class="founder-details">
-                                        <a href="team-details.html">
-                                            <h6 class="title">Adrew David</h6>
+                                    <div class="call-details">
+                                        <span>Email Us</span>
+                                        <a href="mailto:">
+                                            <h6 class="title">info@jefcocenti.com</h6>
                                         </a>
-                                        <span>CEO & Founder</span>
                                     </div>
                                 </div>
                             </div>
@@ -164,7 +152,7 @@
                                     <div class="call-details">
                                         <span>Call us anytime</span>
                                         <a href="tel:+18475555555">
-                                            <h6 class="title">+256 21458.2146</h6>
+                                            <h6 class="title">+94 777 260 850</h6>
                                         </a>
                                     </div>
                                 </div>
@@ -183,15 +171,13 @@
                         <img class="small-img" src="assets/images/about/main/about-02.png" alt="finbiz-small">
                         <div class="experience">
                             <div class="left single">
-                                <h2 class="title">25+</h2>
+                                <h2 class="title">29+</h2>
                                 <p class="time">Years</p>
                             </div>
                             <div class="right single">
                                 <p class="disc">
-                                    Of experience
-                                    in consulting
-                                    service
-                                </p>
+                                    Of Industrial experience
+                                 </p>
                             </div>
                         </div>
                     </div>
@@ -225,13 +211,13 @@
                             <img src="assets/images/service/icon/01.svg" alt="finbiz_service">
                         </div>
                         <div class="service-details">
-                            <a href="service-details.html">
-                                <h5 class="title">Business Planning</h5>
+                            <a href="our-service.php">
+                                <h5 class="title">Electrical</h5>
                             </a>
                             <p class="disc">
-                                Sagitis himos pulvinar morb socis laoreet posuere enim non auctor etiam pretium libero
+                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
                             </p>
-                            <a class="rts-read-more btn-primary" href="service-details.html"><i class="far fa-arrow-right"></i>Read
+                            <a class="rts-read-more btn-primary" href="our-service.php"><i class="far fa-arrow-right"></i>Read
                                 More</a>
                         </div>
                     </div>
@@ -244,13 +230,14 @@
                             <img src="assets/images/service/icon/02.svg" alt="finbiz_service">
                         </div>
                         <div class="service-details">
-                            <a href="service-details.html">
-                                <h5 class="title">Develop Process</h5>
+                            <a href="our-service.php">
+                                <h5 class="title">Heating, Ventilation & Air Conditioning </h5>
                             </a>
                             <p class="disc">
-                                Sagitis himos pulvinar morb socis laoreet posuere enim non auctor etiam pretium libero
+                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+                       
                             </p>
-                            <a class="rts-read-more btn-primary" href="service-details.html"><i class="far fa-arrow-right"></i>Read
+                            <a class="rts-read-more btn-primary" href="our-service.php"><i class="far fa-arrow-right"></i>Read
                                 More</a>
                         </div>
                     </div>
@@ -263,13 +250,14 @@
                             <img src="assets/images/service/icon/03.svg" alt="finbiz_service">
                         </div>
                         <div class="service-details">
-                            <a href="service-details.html">
-                                <h5 class="title">Strategy & Planning</h5>
+                            <a href="our-service.php">
+                                <h5 class="title">Motor Vehicle Air Conditioning</h5>
                             </a>
                             <p class="disc">
-                                Sagitis himos pulvinar morb socis laoreet posuere enim non auctor etiam pretium libero
+                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+                       
                             </p>
-                            <a class="rts-read-more btn-primary" href="service-details.html"><i class="far fa-arrow-right"></i>Read
+                            <a class="rts-read-more btn-primary" href="our-service.php"><i class="far fa-arrow-right"></i>Read
                                 More</a>
                         </div>
                     </div>
@@ -282,13 +270,14 @@
                             <img src="assets/images/service/icon/04.svg" alt="finbiz_service">
                         </div>
                         <div class="service-details">
-                            <a href="service-details.html">
-                                <h5 class="title">Business Support</h5>
+                            <a href="our-service.php">
+                                <h5 class="title">Refrigeration Systems</h5>
                             </a>
                             <p class="disc">
-                                Sagitis himos pulvinar morb socis laoreet posuere enim non auctor etiam pretium libero
+                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+                       
                             </p>
-                            <a class="rts-read-more btn-primary" href="service-details.html"><i class="far fa-arrow-right"></i>Read
+                            <a class="rts-read-more btn-primary" href="our-service.php"><i class="far fa-arrow-right"></i>Read
                                 More</a>
                         </div>
                     </div>
@@ -301,13 +290,14 @@
                             <img src="assets/images/service/icon/05.svg" alt="finbiz_service">
                         </div>
                         <div class="service-details">
-                            <a href="service-details.html">
-                                <h5 class="title">Audit & Evaluation</h5>
+                            <a href="our-service.php">
+                                <h5 class="title">Solar Energy Solutions</h5>
                             </a>
                             <p class="disc">
-                                Sagitis himos pulvinar morb socis laoreet posuere enim non auctor etiam pretium libero
+                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+                       
                             </p>
-                            <a class="rts-read-more btn-primary" href="service-details.html"><i class="far fa-arrow-right"></i>Read
+                            <a class="rts-read-more btn-primary" href="our-service.php"><i class="far fa-arrow-right"></i>Read
                                 More</a>
                         </div>
                     </div>
@@ -324,7 +314,8 @@
                                 <h5 class="title">Consultancy & Advice</h5>
                             </a>
                             <p class="disc">
-                                Sagitis himos pulvinar morb socis laoreet posuere enim non auctor etiam pretium libero
+                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+                           
                             </p>
                             <a class="rts-read-more btn-primary" href="service-details.html"><i class="far fa-arrow-right"></i>Read
                                 More</a>
@@ -338,7 +329,7 @@
                     <div class="cta-one-inner">
                         <div class="cta-left">
                             <h3 class="title">Let’s discuss about how we can help
-                                make your business better</h3>
+                                You</h3>
                         </div>
                         <div class="cta-right">
                             <a class="rts-btn btn-white" href="appoinment.html">Lets Work Together</a>
@@ -368,38 +359,44 @@
                     <div class="business-goal-right">
                         <div class="rts-title-area business text-start pl--30">
                             <p class="pre-title">
-                                JUST A CONSULTANCY
+                            We Provide
+
                             </p>
-                            <h2 class="title">We know how to manage
-                                business globally</h2>
+                            <h2 class="title">What We Do ?</h2>
                         </div>
                         <div class="rts-business-goal pl--30">
                             <div class="single-goal">
                                 <img src="assets/images/business-goal/icon/01.svg" alt="business_Icone" class="thumb">
                                 <div class="goal-wrapper">
-                                    <h6 class="title">Best Business Consulting</h6>
-                                    <p class="disc">Fusce condimentum mattis placerat odio donec lacus porta torquent,
-                                        mauris gravida rutrum</p>
+                                    <h6 class="title">All Auto Air Conditioning..</h6>
+                                    <p class="disc">All Auto Air Conditioning Related Repairs & Services With Warranty </p>
                                 </div>
                             </div>
                             <div class="single-goal">
                                 <img src="assets/images/business-goal/icon/02.svg" alt="business_Icone" class="thumb">
                                 <div class="goal-wrapper">
-                                    <h6 class="title">24/7 Customer Support</h6>
-                                    <p class="disc">Fusce condimentum mattis placerat odio donec lacus porta torquent,
-                                        mauris gravida rutrum</p>
+                                    <h6 class="title">Installation of Air Conditioning...</h6>
+                                    <p class="disc">Installation of Air Conditioning Systems to all Japanese,European, Indian & Korean Vehicles</p>
                                 </div>
                             </div>
+                            <div class="single-goal">
+                                <img src="assets/images/business-goal/icon/02.svg" alt="business_Icone" class="thumb">
+                                <div class="goal-wrapper">
+                                    <h6 class="title">Dual Air Conditioning...</h6>
+                                    <p class="disc">Dual Air Conditioning System Installation</p>
+                                </div>
+                            </div>
+
                             <div class="goal-button-wrapper mt--70">
                                 <a href="contactus.html" class="rts-btn btn-primary color-h-black">Contact Us</a>
                                 <div class="vedio-icone">
-                                    <a id="play-video" class="video-play-button" href="#">
+                                   <!-- <a id="play-video" class="video-play-button" href="contactus.php">
                                         <span></span>
                                         <span class="outer-text">Watch Video</span>
                                     </a>
                                     <div id="video-overlay" class="video-overlay">
                                         <a class="video-overlay-close">×</a>
-                                    </div>
+                                    </div>-->
                                 </div>
                             </div>
                         </div>
@@ -416,44 +413,36 @@
         <div class="container">
             <div class="row">
                 <!-- counter up area -->
-                <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
                     <div class="single-counter">
                         <img src="assets/images/counterup/icon/01.svg" alt="Business_counter">
                         <div class="counter-details">
-                            <h2 class="title"><span class="counter animated fadeInDownBig">858</span></h2>
+                            <h2 class="title"><span class="counter animated fadeInDownBig">1500</span></h2>
                             <p class="disc">Successful Projects</p>
                         </div>
                     </div>
                 </div>
                 <!-- counter up area -->
                 <!-- counter up area -->
-                <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
-                    <div class="single-counter pl--10 justify-content-center two pl--30">
-                        <img src="assets/images/counterup/icon/02.svg" alt="Business_counter">
-                        <div class="counter-details">
-                            <h2 class="title"><span class="counter animated fadeInDownBig">650</span></h2>
-                            <p class="disc">Media Activities</p>
-                        </div>
-                    </div>
-                </div>
+               
                 <!-- counter up area -->
                 <!-- counter up area -->
-                <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
                     <div class="single-counter pl--10 justify-content-center three pl--50">
                         <img src="assets/images/counterup/icon/03.svg" alt="Business_counter">
                         <div class="counter-details">
-                            <h2 class="title"><span class="counter animated fadeInDownBig">567</span></h2>
-                            <p class="disc">Skilled Experts</p>
+                            <h2 class="title"><span class="counter animated fadeInDownBig">6</span></h2>
+                            <p class="disc">Branches</p>
                         </div>
                     </div>
                 </div>
                 <!-- counter up area -->
                 <!-- counter up area -->
-                <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
                     <div class="single-counter pl--10 justify-content-end four">
                         <img src="assets/images/counterup/icon/04.svg" alt="Business_counter">
                         <div class="counter-details">
-                            <h2 class="title happy"><span class="counter animated fadeInDownBig">28</span></h2>
+                            <h2 class="title happy"><span class="counter animated fadeInDownBig">2000</span></h2>
                             <p class="disc">Happy Clients</p>
                         </div>
                     </div>
@@ -491,13 +480,8 @@
                                             <div class="icon">
                                                 <img src="assets/images/gallery/icon/01.svg" alt="Business-gallery">
                                             </div>
-                                            <a href="#">
-                                                <h4 class="title">Pro Business Solution</h4>
-                                            </a>
-                                            <span>Case Study, Growth</span>
-                                            <p class="disc">Ornare etiam laoreet dictumst nisl quisque scelerisque cras
-                                                ut porta interdum purus mattis iaculis litora turpis torquent posuere.
-                                            </p>
+                                            
+                                            
                                             <a class="rts-btn btn-primary" href="project-details.html">View Project</a>
                                         </div>
                                     </div>
@@ -515,12 +499,8 @@
                                             <div class="icon">
                                                 <img src="assets/images/gallery/icon/01.svg" alt="Business-gallery">
                                             </div>
-                                            <a href="#">
-                                                <h4 class="title">Finbiz Pro Business</h4>
-                                            </a>
-                                            <span>Case Study, Growth</span>
-                                            <p class="disc">In the literal sense, the term “Business” means the state of
-                                                being busy. But it is a very wide connotation of business.</p>
+                                         
+                                          
                                             <a class="rts-btn btn-primary" href="project-details.html">View Project</a>
                                         </div>
                                     </div>
@@ -538,14 +518,8 @@
                                             <div class="icon">
                                                 <img src="assets/images/gallery/icon/01.svg" alt="Business-gallery">
                                             </div>
-                                            <a href="#">
-                                                <h4 class="title">Pro Solution Business</h4>
-                                            </a>
-                                            <span>Case Study, Growth</span>
-                                            <p class="disc">But a very wide of business because it
-                                                covers every human activity. Business is really concerned with the
-                                                production.
-                                            </p>
+                                            
+                                           
                                             <a class="rts-btn btn-primary" href="project-details.html">View Project</a>
                                         </div>
                                     </div>
@@ -586,7 +560,7 @@
     </div>
     <!-- end trusted client section -->
 
-    <!-- start team section -->
+    <!-- start team section 
     <div class="rts-team-area rts-section-gap bg-team">
         <div class="container">
             <div class="row">
@@ -708,7 +682,7 @@
             </div>
         </div>
     </div>
-    <!-- end team section -->
+     end team section -->
 
     <!-- rts features area start -->
     <div class="rts-feature-area rts-section-gap">
