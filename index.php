@@ -560,7 +560,7 @@
     </div>
     <!-- end trusted client section -->
 
-    <!-- start team section
+    <!-- start team section-->
     <div class="rts-team-area rts-section-gap bg-team">
         <div class="container">
             <div class="row">
@@ -682,7 +682,7 @@
             </div>
         </div>
     </div>
-     end team section -->
+    <!-- end team section -->
 
     <!-- rts features area start -->
     <div class="rts-feature-area rts-section-gap">
