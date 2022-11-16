@@ -13,6 +13,11 @@
     <link rel="stylesheet" href="assets/css/plugins/unicons.css">
     <link rel="stylesheet" href="assets/css/vendor/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
+    <style>
+        .rts-feature-area{
+            margin-top: 5px;
+        }
+    </style>
 </head>
 
 <body>
