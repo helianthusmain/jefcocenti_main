@@ -23,6 +23,10 @@
 
         }
 
+        .testo {
+            margin-top: 500px;
+        }
+
     </style>
 </head>
 
@@ -627,7 +631,7 @@
                 <!-- start testimonials area -->
                 <div class="col-lg-7">
                     <div class="rts-title-area reviews text-start pl--30 pt--70">
-                        <p class="pre-title">
+                        <p class="pre-title testo" style="margin-top: 20px;">
                             Our Testimonials
                         </p>
                         <h2 class="title">Client’s Feedbacks</h2>
