@@ -575,7 +575,7 @@
     <!-- end team section -->
 
     <!-- rts features area start -->
-    <div class="rts-feature-area rts-section-gap">
+    <div class="rts-feature-area">
         <div class="container-fluid padding-controler plr--120">
             <div class="row bg-white-feature  pt--120 pb--120">
                 <div class="col-xl-6 col-lg-12">
