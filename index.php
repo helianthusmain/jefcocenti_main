@@ -17,6 +17,12 @@
         .rts-feature-area{
             margin-top: 5px;
         }
+        .rts-section-gapBottom-custom{
+
+            padding-bottom: 50px;
+
+        }
+
     </style>
 </head>
 
@@ -542,8 +548,8 @@
     <!-- start gallery section -->
 
     <!-- start trusted client section -->
-    <div class="rts-trusted-client rts-section-gapBottom">
-        <div class="container">
+    <div class="rts-trusted-client rts-section-gapBottom-custom">
+        <div class="container-fuid">
             <div class="row">
                 <div class="col-12">
                     <div class="title-area-client text-center">
