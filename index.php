@@ -119,7 +119,7 @@
                         the nation. As an innovative and a value driven company we have
                         been able to overcome the contrasting challenges in the industry
                         and we pride ourselves as one of the industry leaders.
-                        <a class="rts-read-more btn-primary" href="service-details.html"><i class="far fa-arrow-right"></i>Read
+                        <a class="rts-read-more btn-primary" href="about-us.php"><i class="far fa-arrow-right"></i>Read
                                 More</a>
                         </p>
                      
@@ -593,10 +593,8 @@
                             Boost Your Business Today
                         </p>
                         <h2 class="title feature-title">Most Reliable Efficient <br>
-                            Consulting Agency</h2>
-                        <p>Porttitor ornare fermentum aliquam pharetra ut facilisis gravida risus suscipit feugiat fusce
-                            conubia ridiculus tristique solving parturient natoque vulputate risu hasellus quam
-                            tincidunt posuere aliquam accumsan</p>
+                            Company in Sri Lanka</h2>
+                        <p>We undertake the impossible and strive ourselves to be the pioneer</p>
 
                     </div>
 
@@ -642,10 +640,7 @@
                                 <div class="swiper-slide">
                                     <div class="testimonial-inner">
                                         <p class="disc text-start">
-                                            “Consectetur adipiscing elit velit porta sapien purus erat nec, a ornare
-                                            laoreet sem gravida accumsan in commodo aliquet nascetur maecenas. Sem
-                                            tempus hendrerit diam mauris leo magna sociosqu viverra, accumsan massa
-                                            tristique egestas cum sodales hac lacinia feugiat scelerisque porttitor”
+                                            “Quality service and low prices.Highly recomended for Vehicle AC repair and residence air conditioning.”
                                         </p>
                                         <div class="testimonial-bottom-one">
                                             <div class="thumbnail">
@@ -653,9 +648,8 @@
                                             </div>
                                             <div class="details">
                                                 <a href="#">
-                                                    <h5 class="title">David Smith</h5>
+                                                    <h5 class="title">Kaniska Maduranga</h5>
                                                 </a>
-                                                <span>JHKL Owner</span>
                                             </div>
                                         </div>
                                     </div>
@@ -663,41 +657,17 @@
                                 <div class="swiper-slide">
                                     <div class="testimonial-inner">
                                         <p class="disc text-start">
-                                            “Consectetur adipiscing elit velit porta sapien purus erat nec, a ornare
-                                            laoreet sem gravida accumsan in commodo aliquet nascetur maecenas. Sem
-                                            tempus hendrerit diam mauris leo magna sociosqu viverra, accumsan massa
-                                            tristique egestas cum sodales hac lacinia feugiat scelerisque porttitor”
+                                            “I recommend this business for Residence AC and Vehicle A/C repair.Good Service and Quality Service.Lowest prices.”
                                         </p>
                                         <div class="testimonial-bottom-one">
                                             <div class="thumbnail">
-                                                <img src="assets/images/testimonials/02.png" alt="business-testimonials">
+                                                <img src="assets/images/testimonials/03.png" alt="business-testimonials">
                                             </div>
                                             <div class="details">
                                                 <a href="#">
-                                                    <h5 class="title">David Smith</h5>
+                                                    <h5 class="title">Gimhani Bhagya</h5>
                                                 </a>
-                                                <span>JHKL Owner</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="testimonial-inner">
-                                        <p class="disc text-start">
-                                            “Consectetur adipiscing elit velit porta sapien purus erat nec, a ornare
-                                            laoreet sem gravida accumsan in commodo aliquet nascetur maecenas. Sem
-                                            tempus hendrerit diam mauris leo magna sociosqu viverra, accumsan massa
-                                            tristique egestas cum sodales hac lacinia feugiat scelerisque porttitor”
-                                        </p>
-                                        <div class="testimonial-bottom-one">
-                                            <div class="thumbnail">
-                                                <img src="assets/images/testimonials/02.png" alt="business-testimonials">
-                                            </div>
-                                            <div class="details">
-                                                <a href="#">
-                                                    <h5 class="title">David Smith</h5>
-                                                </a>
-                                                <span>JHKL Owner</span>
+                                             
                                             </div>
                                         </div>
                                     </div>
@@ -722,7 +692,7 @@
     </div>
     <!-- start client feed back section End -->
 
-    <!-- blog area start -->
+    <!-- blog area start
     <div class="rts-blog-area rts-section-gap bg-secondary">
         <div class="container">
             <div class="row">
@@ -798,9 +768,9 @@
             </div>
         </div>
     </div>
-    <!-- blog area end -->
+    blog area end -->
 
-    <!-- contact area start -->
+    <!-- contact area start
     <div class="rts-contact-area contact-one">
         <div class="container">
             <div class="row align-items-center g-0">
@@ -832,7 +802,7 @@
             </div>
         </div>
     </div>
-    <!-- contact area end -->
+    contact area end -->
 
     <!-- map area start -->
     <div class="rts-map-area bg-light-white">
@@ -845,13 +815,13 @@
                             <h5 class="title">Get in touch</h5>
                             <div class="details">
                                 <p>Work and general inquiries</p>
-                                <a class="number" href="#">+3509.120-8605</a>
+                                <a class="number" href="#">+94 112 693 120</a>
 
                                 <p class="time-header">
                                     Assistance hours:
                                 </p>
                                 <p class="time">
-                                    Monday – Friday <br> 6 am to 8 pm EST
+                                    Monday – Friday <br> 8 am to 5 pm
                                 </p>
                             </div>
                         </div>
@@ -859,21 +829,20 @@
                             <h5 class="title">Post Address</h5>
                             <div class="details">
                                 <p>Service Office</p>
-                                <a href="#">786 Dortans Ave, Otam Sites, <br>
-                                    CA 36108, United States</a>
+                                <a href="#">No. 515/4 T.B. Jaya Mawatha, Colombo 10.</a>
 
                                 <p class="headoffice">
-                                    Head Office
+                                   E-mail
                                 </p>
-                                <p class="office">142 Drive Lane. USA</p>
+                                <p class="office">info@jefcocenti.com</p>
                             </div>
                         </div>
                     </div>
                     <!-- map area right -->
                 </div>
                 <div class="col-lg-6">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d14602.288851207937!2d90.47855065!3d23.798243149999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1663151706353!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                </div>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.7581421546492!2d79.85993521477283!3d6.919491195000427!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae2596d4c21fa0b%3A0x279899cbfaef0fa3!2sJefco%20Centi%20(Private)%20Limited!5e0!3m2!1sen!2slk!4v1668596736649!5m2!1sen!2slk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>   
+                    </div>
             </div>
 
         </div>
