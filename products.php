@@ -60,7 +60,7 @@
                             <!-- start blog grid inner -->
                             <div class="blog-grid-inner">
                                 <div class="blog-header">
-                                    <a class="thumbnail" href="blog-details.html">
+                                    <a class="thumbnail" href="contactus.php">
                                         <img src="assets/images/product/Low-static-pressure-duct.jpg" alt="Low-static-pressure-duct">
                                     </a>
                                     <div class="blog-info">
@@ -72,7 +72,7 @@
                                     </div>
                                 </div>
                                 <div class="blog-body">
-                                     <a href="contact.php">
+                                     <a href="contactus.php">
                                         <h5 class="title">
                                         Low Static Pressure Duct
                                         </h5>
@@ -85,7 +85,7 @@
                                    <!-- start blog grid inner -->
                                    <div class="blog-grid-inner">
                                 <div class="blog-header">
-                                    <a class="thumbnail" href="blog-details.html">
+                                    <a class="thumbnail" href="contactus.php">
                                         <img src="assets/images/product/Low-static-pressure-duct-slim.jpg" alt="Low-static-pressure-duct-slim">
                                     </a>
                                     <div class="blog-info">                                      
@@ -96,7 +96,7 @@
                                     </div>
                                 </div>
                                 <div class="blog-body">
-                                     <a href="contact.php">
+                                     <a href="contactus.php">
                                         <h5 class="title">
                                         Low Static Pressure Duct (Slim)
                                         </h5>
@@ -110,7 +110,7 @@
                                    <!-- start blog grid inner -->
                                    <div class="blog-grid-inner">
                                 <div class="blog-header">
-                                    <a class="thumbnail" href="blog-details.html">
+                                    <a class="thumbnail" href="contactus.php">
                                         <img src="assets/images/product/Medium-Static-Pressure-Duct.jpg" alt="Medium-Static-Pressure-Duct">
                                     </a>
                                     <div class="blog-info">
@@ -122,7 +122,7 @@
                                     </div>
                                 </div>
                                 <div class="blog-body">
-                                     <a href="contact.php">
+                                     <a href="contactus.php">
                                         <h5 class="title">
                                         Medium Static Pressure Duct
                                         </h5>
@@ -136,7 +136,7 @@
                                    <!-- start blog grid inner -->
                                    <div class="blog-grid-inner">
                                 <div class="blog-header">
-                                    <a class="thumbnail" href="blog-details.html">
+                                    <a class="thumbnail" href="contactus.php">
                                         <img src="assets/images/product/Medium-Static-Pressure-Duct-(Slim).jpg" alt="Medium-Static-Pressure-Duct-(Slim)">
                                     </a>
                                     <div class="blog-info">
@@ -148,7 +148,7 @@
                                     </div>
                                 </div>
                                 <div class="blog-body">
-                                     <a href="contact.php">
+                                     <a href="contactus.php">
                                         <h5 class="title">
                                         Medium Static Pressure Duct (Slim)
                                         </h5>
@@ -162,7 +162,7 @@
                                    <!-- start blog grid inner -->
                                    <div class="blog-grid-inner">
                                 <div class="blog-header">
-                                    <a class="thumbnail" href="blog-details.html">
+                                    <a class="thumbnail" href="contactus.php">
                                         <img src="assets/images/product/High-Static-Pressure-Duct.jpg" alt="High-Static-Pressure-Duct">
                                     </a>
                                     <div class="blog-info">
@@ -174,7 +174,7 @@
                                     </div>
                                 </div>
                                 <div class="blog-body">
-                                     <a href="contact.php">
+                                     <a href="contactus.php">
                                         <h5 class="title">
                                         High Static Pressure Duct
                                         </h5>
@@ -188,7 +188,7 @@
                                    <!-- start blog grid inner -->
                                    <div class="blog-grid-inner">
                                 <div class="blog-header">
-                                    <a class="thumbnail" href="blog-details.html">
+                                    <a class="thumbnail" href="contactus.php">
                                         <img src="assets/images/product/2.5-4.jpg" alt="2.5~4.6kW">
                                     </a>
                                     <div class="blog-info">
@@ -200,7 +200,7 @@
                                     </div>
                                 </div>
                                 <div class="blog-body">
-                                     <a href="contact.php">
+                                     <a href="contactus.php">
                                         <h5 class="title">
                                         2.5~4.6kW
                                         </h5>

@@ -49,9 +49,9 @@
                         <h1 class="title ">Make <span>Business Unique </span> <br>
                             With Great Ideas</h1>
                         <p class="disc banner-para">
-                        We undertake the impossible and strive ourselves to be the pioneer
+                        To be the leading mechanical & electronic engineering company in Sri Lanka
                         </p>
-                        <a href="#" class="rts-btn btn-primary color-h-black">Get Consultant</a>
+                        <a href="contactus.php" class="rts-btn btn-primary color-h-black">Contact Us</a>
                         <img class="shape-img one" src="assets/images/banner/shape/01.png" alt="banner_business">
                     </div>
                     <!-- banner single content end -->
@@ -62,13 +62,11 @@
                         <p class="pre-title">
                             <span>Welcome!</span> Start Growing Your Business Today
                         </p>
-                        <h1 class="title ">Launch <span>Ultra Modern</span> <br> Effective Business</h1>
+                        <h1 class="title ">Launch <span>Ultra Modern</span> <br> Effective Services</h1>
                         <p class="disc banner-para">
-                            Porttitor ornare fermentum aliquam pharetra facilisis gravida risus suscipit <br> Dui
-                            feugiat
-                            fusce conubia ridiculus tristique parturient
+                        To pursue dynamic progress in everything we do while preserving <br> the core values of the company
                         </p>
-                        <a href="#" class="rts-btn btn-primary color-h-black">Get Consultant</a>
+                        <a href="contactus.php" class="rts-btn btn-primary color-h-black">Contact Us</a>
                         <img class="shape-img one" src="assets/images/banner/shape/01.png" alt="banner_business">
                     </div>
                     <!-- banner single content end -->
@@ -81,11 +79,9 @@
                         </p>
                         <h1 class="title ">Make <span>Business Growth</span> <br> With Next Level</h1>
                         <p class="disc banner-para">
-                            Porttitor ornare fermentum aliquam pharetra facilisis gravida risus suscipit <br> Dui
-                            feugiat
-                            fusce conubia ridiculus tristique parturient
+                        To pursue dynamic progress in everything we do while preserving <br> the core values of the company
                         </p>
-                        <a href="#" class="rts-btn btn-primary color-h-black">Get Consultant</a>
+                        <a href="contactus.php" class="rts-btn btn-primary color-h-black">Contact Us</a>
                         <img class="shape-img one" src="assets/images/banner/shape/01.png" alt="banner_business">
                     </div>
                     <!-- banner single content end -->
@@ -166,7 +162,7 @@
                                     <img class="authore-call" src="assets/images/about/call.svg" alt="call_founder">
                                     <div class="call-details">
                                         <span>Call us anytime</span>
-                                        <a href="tel:+18475555555">
+                                        <a href="tel:+94777260850">
                                             <h6 class="title">+94 777 260 850</h6>
                                         </a>
                                     </div>
@@ -325,14 +321,14 @@
                             <img src="assets/images/service/icon/06.svg" alt="finbiz_service">
                         </div>
                         <div class="service-details">
-                            <a href="service-details.html">
+                            <a href="our-service.php">
                                 <h5 class="title">Consultancy & Advice</h5>
                             </a>
                             <p class="disc">
                             Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
                            
                             </p>
-                            <a class="rts-read-more btn-primary" href="service-details.html"><i class="far fa-arrow-right"></i>Read
+                            <a class="rts-read-more btn-primary" href="our-service.php"><i class="far fa-arrow-right"></i>Read
                                 More</a>
                         </div>
                     </div>
@@ -347,7 +343,7 @@
                                 You</h3>
                         </div>
                         <div class="cta-right">
-                            <a class="rts-btn btn-white" href="appoinment.html">Lets Work Together</a>
+                            <a class="rts-btn btn-white" href="contactus.php">Let's Work Together</a>
                         </div>
                     </div>
                 </div>
@@ -403,7 +399,7 @@
                             </div>
 
                             <div class="goal-button-wrapper mt--70">
-                                <a href="contactus.html" class="rts-btn btn-primary color-h-black">Contact Us</a>
+                                <a href="contactus.php" class="rts-btn btn-primary color-h-black">Contact Us</a>
                                 <div class="vedio-icone">
                                    <!-- <a id="play-video" class="video-play-button" href="contactus.php">
                                         <span></span>
@@ -497,7 +493,7 @@
                                             </div>
                                             
                                             
-                                            <a class="rts-btn btn-primary" href="project-details.html">View Project</a>
+                                            <a class="rts-btn btn-primary" href="projects.php">View Project</a>
                                         </div>
                                     </div>
                                 </div>
@@ -516,7 +512,7 @@
                                             </div>
                                          
                                           
-                                            <a class="rts-btn btn-primary" href="project-details.html">View Project</a>
+                                            <a class="rts-btn btn-primary" href="projects.php">View Project</a>
                                         </div>
                                     </div>
                                 </div>
@@ -535,7 +531,7 @@
                                             </div>
                                             
                                            
-                                            <a class="rts-btn btn-primary" href="project-details.html">View Project</a>
+                                            <a class="rts-btn btn-primary" href="projects.php">View Project</a>
                                         </div>
                                     </div>
                                 </div>

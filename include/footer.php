@@ -10,11 +10,11 @@
                         </div>
                         <div class="quick-link-inner">
                             <ul class="links">
-                                <li><a href="#"><i class="far fa-arrow-right"></i> Services</a></li>
-                                <li><a href="#"><i class="far fa-arrow-right"></i> Projects</a></li>
-                                <li><a href="#"><i class="far fa-arrow-right"></i> Products</a></li>
-                                <li><a href="#"><i class="far fa-arrow-right"></i> About Us</a></li>
-                                <li><a href="#"><i class="far fa-arrow-right"></i> Contact Us</a></li>
+                                <li><a href="our-service.php"><i class="far fa-arrow-right"></i> Services</a></li>
+                                <li><a href="project-details-xml.php"><i class="far fa-arrow-right"></i> Projects</a></li>
+                                <li><a href="products.php"><i class="far fa-arrow-right"></i> Products</a></li>
+                                <li><a href="about-us.php"><i class="far fa-arrow-right"></i> About Us</a></li>
+                                <li><a href="about-us.php"><i class="far fa-arrow-right"></i> Contact Us</a></li>
                             </ul>
                         
                         </div>
@@ -40,7 +40,7 @@
                                 <p class="day">Sunday</p>
                                 <p class="time">Day Off</p>
                             </div>
-                            <a href="#" class="rts-btn btn-primary contact-us">Contact Us</a>
+                            <a href="contactus.php" class="rts-btn btn-primary contact-us">Contact Us</a>
                         </div>
                     </div>
                 </div>
