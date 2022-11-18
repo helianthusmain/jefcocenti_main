@@ -51,7 +51,7 @@ foreach ($xmlData -> children() as $value) {
                 <div class="row">
                     <div class="col-xl-3 col-lg-4 col-md-4 col-sm-4 col-4">
                         <div class="thumbnail">
-                            <a href="index.html">
+                            <a href="index.php">
                                 <img src="assets/images/logo/logo.png" alt="Jefco-logo">
                             </a>
                         </div>
@@ -69,8 +69,8 @@ foreach ($xmlData -> children() as $value) {
                                 </ul>
                             </nav>
                             <div class="button-area">
-                                <button id="search" class="rts-btn btn-primary-alta"><i class="far fa-search"></i></button>
-                                <div class="search-input-area">
+                                <!-- <button id="search" class="rts-btn btn-primary-alta"><i class="far fa-search"></i></button>
+                                  <div class="search-input-area">
                                     <div class="container">
                                         <div class="search-input-inner">
                                             <div class="input-div">
@@ -80,7 +80,7 @@ foreach ($xmlData -> children() as $value) {
                                             <div id="close" class="search-close-icon"><i class="far fa-times"></i></div>
                                         </div>
                                     </div>
-                                </div>
+                                </div>-->
                                 <a href="contactus.php" class="rts-btn btn-primary ml--20 ml_sm--5 header-one-btn quote-btn">Contact Us</a>
                                 <button id="menu-btn" class="menu rts-btn btn-primary-alta ml--20 ml_sm--5">
                                     <img class="menu-dark" src="assets/images/icon/menu.png" alt="Menu-icon">
@@ -99,10 +99,10 @@ foreach ($xmlData -> children() as $value) {
         <button class="close-icon-menu"><i class="far fa-times"></i></button>
         <!-- inner menu area desktop start -->
         <div class="rts-sidebar-menu-desktop">
-            <a class="logo-1" href="index.html"><img class="logo" src="assets/images/logo/logo-1.svg" alt="finbiz_logo"></a>
-            <a class="logo-2" href="index.html"><img class="logo" src="assets/images/logo/logo-4.svg" alt="finbiz_logo"></a>
-            <a class="logo-3" href="index.html"><img class="logo" src="assets/images/logo/logo-3.svg" alt="finbiz_logo"></a>
-            <a class="logo-4" href="index.html"><img class="logo" src="assets/images/logo/logo-5.svg" alt="finbiz_logo"></a>
+            <a class="logo-1" href="index.php"><img class="logo" src="assets/images/logo/logo-1.svg" alt="finbiz_logo"></a>
+            <a class="logo-2" href="index.php"><img class="logo" src="assets/images/logo/logo-4.svg" alt="finbiz_logo"></a>
+            <a class="logo-3" href="index.php"><img class="logo" src="assets/images/logo/logo-3.svg" alt="finbiz_logo"></a>
+            <a class="logo-4" href="index.php"><img class="logo" src="assets/images/logo/logo-5.svg" alt="finbiz_logo"></a>
             <div class="body d-none d-xl-block">
                 <p class="disc">
                 To be the leading mechanical & electronic engineering company in Sri Lanka

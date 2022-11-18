@@ -30,7 +30,7 @@
                 </div>
                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
                     <div class="bread-tag">
-                        <a href="index.html">Home</a>
+                        <a href="index.php">Home</a>
                         <span> / </span>
                         <a href="#" class="active">Projects Details</a>
                     </div>

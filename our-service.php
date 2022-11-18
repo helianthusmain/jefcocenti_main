@@ -29,7 +29,7 @@
                 </div>
                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
                     <div class="bread-tag">
-                        <a href="index.html">Home</a>
+                        <a href="index.php">Home</a>
                         <span> / </span>
                         <a href="#" class="active">Our Services</a>
                     </div>
@@ -53,10 +53,12 @@
                                 <h5 class="title">Electrical</h5>
                                 <p class="dsic">
                                 Electrical engineering is an engineering discipline concerned with the study, design, and application of equipment, devices, and systems which use electricity, electronics, and electromagnetism.
-                                </p>
-                                <a class="rts-read-more-two color-primary" href="project-details-xml.php">Read More<i class="far fa-arrow-right"></i></a>
-                              
+                                </p>                      
                             </div>
+                            <br>
+                              <a class="rts-read-more-two color-primary" href="contactus.php">Get in Touch<i class="far fa-arrow-right"></i></a>
+                            
+                           
                         </div>
                     </div>
                 </div>
@@ -71,8 +73,9 @@
                                 <p class="dsic">
                                 Electrical engineering is an engineering discipline concerned with the study, design, and application of equipment, devices, and systems which use electricity, electronics, and electromagnetism.
                                 </p>
-                                <a class="rts-read-more-two color-primary" href="project-details-xml.php">Read More<i class="far fa-arrow-right"></i></a>
                             </div>
+                            <br>
+                              <a class="rts-read-more-two color-primary" href="contactus.php">Get in Touch<i class="far fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -87,8 +90,9 @@
                                 <p class="dsic">
                                 Electrical engineering is an engineering discipline concerned with the study, design, and application of equipment, devices, and systems which use electricity, electronics, and electromagnetism.
                                 </p>
-                                <a class="rts-read-more-two color-primary" href="project-details-xml.php">Read More<i class="far fa-arrow-right"></i></a>
                             </div>
+                            <br>
+                              <a class="rts-read-more-two color-primary" href="contactus.php">Get in Touch<i class="far fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -100,6 +104,76 @@
     </div>
     <!-- our service area end -->
 
+
+       <!-- start client feed back section -->
+       <div class="rts-client-feedback">
+        <div class="container">
+            <div class="row">
+                <!-- start testimonials area -->
+                <div class="col-lg-7">
+                    <div class="rts-title-area reviews text-start pl--30 pt--70">
+                        <p class="pre-title testo" style="margin-top: 20px;">
+                            Our Testimonials
+                        </p>
+                        <h2 class="title">Client’s Feedbacks</h2>
+
+                        <!-- swiper area start -->
+                        <div class="swiper mySwipertestimonial">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide">
+                                    <div class="testimonial-inner">
+                                        <p class="disc text-start">
+                                            “Quality service and low prices.Highly recomended for Vehicle AC repair and residence air conditioning.”
+                                        </p>
+                                        <div class="testimonial-bottom-one">
+                                            <div class="thumbnail">
+                                                <img src="assets/images/testimonials/02.png" alt="business-testimonials">
+                                            </div>
+                                            <div class="details">
+                                                <a href="#">
+                                                    <h5 class="title">Kaniska Maduranga</h5>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="testimonial-inner">
+                                        <p class="disc text-start">
+                                            “I recommend this business for Residence AC and Vehicle A/C repair.Good Service and Quality Service.Lowest prices.”
+                                        </p>
+                                        <div class="testimonial-bottom-one">
+                                            <div class="thumbnail">
+                                                <img src="assets/images/testimonials/03.png" alt="business-testimonials">
+                                            </div>
+                                            <div class="details">
+                                                <a href="#">
+                                                    <h5 class="title">Gimhani Bhagya</h5>
+                                                </a>
+                                             
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-button-next"></div>
+                            <div class="swiper-button-prev"></div>
+                        </div>
+                        <!-- swiper area end -->
+                    </div>
+                </div>
+                <!-- end testimonials are -->
+                <!-- images area -->
+                <div class="col-lg-5">
+                    <div class="rts-test-one-image-inner">
+                        <img src="assets/images/testimonials/01.png" alt="business_testimobials">
+                    </div>
+                </div>
+                <!-- image area end -->
+            </div>
+        </div>
+    </div>
+    <!-- start client feed back section End -->
 
 
 

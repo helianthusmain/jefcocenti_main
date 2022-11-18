@@ -14,7 +14,7 @@
                                 <li><a href="project-details-xml.php"><i class="far fa-arrow-right"></i> Projects</a></li>
                                 <li><a href="products.php"><i class="far fa-arrow-right"></i> Products</a></li>
                                 <li><a href="about-us.php"><i class="far fa-arrow-right"></i> About Us</a></li>
-                                <li><a href="about-us.php"><i class="far fa-arrow-right"></i> Contact Us</a></li>
+                                <li><a href="contactus.php"><i class="far fa-arrow-right"></i> Contact Us</a></li>
                             </ul>
                         
                         </div>

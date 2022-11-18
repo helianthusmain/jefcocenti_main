@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Finbiz About Us (Business Consultant)</title>
+    <title>Jefco - Centi</title>
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/fav.png">
     <link rel="stylesheet" href="assets/css/plugins/swiper.min.css">
     <link rel="stylesheet" href="assets/css/plugins/fontawesome-5.css">
@@ -57,7 +57,7 @@
                 </div>
                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
                     <div class="bread-tag">
-                        <a href="index.html">Home</a>
+                        <a href="index.php">Home</a>
                         <span> / </span>
                         <a href="#" class="active">About Us</a>
                     </div>
@@ -241,8 +241,7 @@
         </div>
     </div>
     <!-- rts faq section area End -->
-
-    <!-- customers feed back area start -->
+ 
     <div class="rts-customer-feedback-area rts-section-gap bg-customer-feedback">
         <div class="container">
             <div class="row g-5 mt--20">
@@ -279,7 +278,7 @@
                 </div>
 
 
-            </div>
+            </div>            
 
             <div class="row g-5 mt--20">
                 <div class="col-sm">
@@ -309,8 +308,11 @@
 
         </div>
     </div>
-    <!-- customers feed back area end -->
+    <!-- customers feed back area end-->
 
+    
+    
+    <!-- end trusted client section  
     <div class="rts-about-area rts-section-gap">
         <div class="container-fluid">
             <div class="row">
@@ -380,7 +382,7 @@
 
             </div>
         </div>
-    </div>
+    </div>-->
 
 
     <!-- start header area -->

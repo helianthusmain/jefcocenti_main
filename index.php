@@ -493,7 +493,7 @@
                                             </div>
                                             
                                             
-                                            <a class="rts-btn btn-primary" href="projects.php">View Project</a>
+                                            <a class="rts-btn btn-primary" href="project-details-xml.php">View Project</a>
                                         </div>
                                     </div>
                                 </div>
@@ -512,7 +512,7 @@
                                             </div>
                                          
                                           
-                                            <a class="rts-btn btn-primary" href="projects.php">View Project</a>
+                                            <a class="rts-btn btn-primary" href="project-details-xml.php">View Project</a>
                                         </div>
                                     </div>
                                 </div>
@@ -531,7 +531,7 @@
                                             </div>
                                             
                                            
-                                            <a class="rts-btn btn-primary" href="projects.php">View Project</a>
+                                            <a class="rts-btn btn-primary" href="project-details-xml.php">View Project</a>
                                         </div>
                                     </div>
                                 </div>
