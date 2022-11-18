@@ -18858,7 +18858,7 @@ p.disc.banner-para {
   transform: scale(1.15);
 }
 .service-two-inner:hover .body-content .hidden-area {
-  max-height: 150px;
+  max-height: 250px;
   bottom: 0;
 }
 
