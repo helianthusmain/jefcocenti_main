@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<company>
+
+    <project>
+        <client>BCI Campus (Bolawalana)</client>
+        <pinfo>Air Conditioning, Industrial Exhaust System</pinfo>
+        <pdate>2021</pdate>
+        <ploc>Negombo</ploc>
+        <pimg>BCIcampus.jpg</pimg>
+    </project>
+
+    <project>
+        <client>Municipal Council</client>
+        <pinfo>Air  Conditioning, Industrial Exhaust System,Service &amp; Maintenance</pinfo>
+        <pdate>2021</pdate>
+        <ploc>Negombo</ploc>
+        <pimg>MunicipalCouncil.jpg</pimg>
+    </project>
+
+    <project>
+        <client>Covid 19 Hospital</client>
+        <pinfo>Air Conditioning, Metal Duct Fabrication, Service &amp; Maintenance,Industrial Exhaust System</pinfo>
+        <pdate>2020</pdate>
+        <ploc>Iranawila</ploc>
+        <pimg>Covid19Hospital.jpg</pimg>
+    </project>
+
+    <project>
+        <client>A'Laanka Resort</client>
+        <pinfo>Air Conditioning, Metal Duct Fabrication,Service &amp; Maintenance,Industrial Exhaust System</pinfo>
+        <pdate>2020</pdate>
+        <ploc>Haldummulla</ploc>
+        <pimg>AlankaResort.jpg</pimg>
+    </project>
+
+
+     <project>
+        <client>Saffron Beach</client>
+        <pinfo>Air Conditioning, Metal Duct Fabrication, Service &amp; Maintenance</pinfo>
+        <pdate>2019</pdate>
+        <ploc>Wadduwa</ploc>
+        <pimg>saffronbeach.jpg</pimg>
+    </project>
+
+     <project>
+        <client>Reagal Resseau</client>
+        <pinfo>Air Conditioning, Metal Duct Fabrication</pinfo>
+        <pdate>2019</pdate>
+        <ploc>Negombo</ploc>
+        <pimg>ReagalResseau.jpg</pimg>
+    </project>
+
+    <project>
+        <client>Olanro Hotel</client>
+        <pinfo>Air Conditioning, Metal Duct Fabrication,Service &amp; Maintenance,Exhaust Ventilation</pinfo>
+        <pdate>2017</pdate>
+        <ploc>Negombo</ploc>
+        <pimg>Olanro.jpg</pimg>
+    </project>
+
+    <project>
+        <client>Beacon Beach Hotel</client>
+        <pinfo>Air Conditioning, Metal Duct Fabrication,Service &amp; Maintenance,Exhaust Ventilation System,Refrigeration, Cold Room System</pinfo>
+        <pdate>2016</pdate>
+        <ploc>Negombo</ploc>
+        <pimg>BeaconBeach.jpg</pimg>
+    </project>
+
+     <project>
+        <client>Grandeeza</client>
+        <pinfo>Air Conditioning, Metal Duct Fabrication, Service &amp; Maintenance,Exhaust Ventilation System,Refrigeration, Cold Room System</pinfo>
+        <pdate>2015</pdate>
+        <ploc>Negombo</ploc>
+        <pimg>grandeeza.jpg</pimg>
+    </project>
+
+     <project>
+        <client>Carolinaa Hotel</client>
+        <pinfo>Air Conditioning, Metal Duct Fabrication, Service &amp; Maintenance,Exhaust Ventilation System,Refrigeration, Cold Room System</pinfo>
+        <pdate>2013</pdate>
+        <ploc>Chillaw</ploc>
+        <pimg>CarolinaaHotel.jpg</pimg>
+    </project>
+
+
+
+
+
+
+</company>
