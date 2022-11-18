@@ -244,7 +244,7 @@
                                 </div>
                                 <input type="text" name="subject" placeholder="Your Subject">
                                 <textarea placeholder="Type Your Message" name="message"></textarea>
-                                <button type="submit" class="rts-btn btn-primary">Send Message</button>
+                                <button type="button" class="rts-btn btn-primary">Send Message</button>
                             </form>
                         </div>
                     </div>
