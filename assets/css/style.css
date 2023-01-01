@@ -25762,3 +25762,19 @@ p.disc {
   color: #848C95;
 }
 /*# sourceMappingURL=../maps/style.css.map */
+
+
+.open-button {
+  background-image:url("../images/chat/wapp.png");
+  background-position: center;
+  background-size: cover;
+  border: none;
+  cursor: pointer;
+  opacity: 1;
+  position: fixed;
+  bottom: 50px;
+  right: 28px;
+  width: 105px;
+  height: 120px;
+  z-index: 1;
+}
