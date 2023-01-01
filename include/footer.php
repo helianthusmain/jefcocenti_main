@@ -1,4 +1,4 @@
-<a href="http://api.whatsapp.com/send?phone=947737102992&text=I want to know more details" class="open-button" target="_blank"></a>
+<a href="http://api.whatsapp.com/send?phone=94773710299&text=I want to know more details" class="open-button" target="_blank"></a>
 <div class="rts-footer-area footer-one bg-footer-one">
         <div class="container bg-shape-f1">
             <!-- rts footer area -->
