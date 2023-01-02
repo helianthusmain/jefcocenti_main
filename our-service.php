@@ -47,17 +47,22 @@
                 <!-- single service area -->
                 <div class="col-xl-4 col-md-6 col-sm-12 col-12 pb--140 pb_md--100">
                     <div class="service-two-inner">
-                        <a href="project-details-xml.php" class="thumbnail"><img src="assets/images/service/02.jpg" alt="Business_image"></a>
+                        <a href="project-details-xml.php" class="thumbnail"><img src="assets/images/service/plumbing.jpg" alt="MVP – Mechanical Electrical Plumbing"></a>
                         <div class="body-content">
                             <div class="hidden-area">
-                                <h5 class="title">Electrical</h5>
-                                <p class="dsic">
-                                Electrical engineering is an engineering discipline concerned with the study, design, and application of equipment, devices, and systems which use electricity, electronics, and electromagnetism.
+                                <h5 class="title">MVP – Mechanical Electrical Plumbing</h5>
+                                <p class="dsic">                                
+                                <ul>
+                                    <li>Industrial Electrical </li>
+                                    <li>Pander Boards</li>
+                                    <li>Industrial plumbing</li>
+                                    <li>Industrial Engineering </li>
+                                </ul>
                                 </p>                      
                             </div>
                             <br>
-                              <a class="rts-read-more-two color-primary" href="contactus.php">Get in Touch<i class="far fa-arrow-right"></i></a>
-                            
+                              <a class="rts-read-more-two color-primary" href="project-details-xml.php">Projects<i class="far fa-arrow-right"></i></a>
+                              <a class="rts-read-more-two color-primary" href="https://api.whatsapp.com/send?phone=94773710299&text=MVP – Mechanical Electrical Plumbing">Get in Touch<i class="far fa-arrow-right"></i></a>
                            
                         </div>
                     </div>
@@ -66,16 +71,21 @@
                 <!-- single service area -->
                 <div class="col-xl-4 col-md-6 col-sm-12 col-12 pb--140 pb_md--100">
                     <div class="service-two-inner">
-                        <a href="project-details-xml.php" class="thumbnail two"><img src="assets/images/service/03.jpg" alt="Business_image"></a>
+                        <a href="project-details-xml.php" class="thumbnail two"><img src="assets/images/service/heating.jpg" alt="HVAC - Heating, Ventilation & Air Conditioning"></a>
                         <div class="body-content">
                             <div class="hidden-area">
-                                <h5 class="title">Heating, Ventilation & Air Conditioning (HVAC)</h5>
+                                <h5 class="title">HVAC - Heating, Ventilation & Air Conditioning</h5>
                                 <p class="dsic">
-                                Electrical engineering is an engineering discipline concerned with the study, design, and application of equipment, devices, and systems which use electricity, electronics, and electromagnetism.
+                                <ul>
+                                    <li>VRV / VRF System</li>
+                                    <li>Central Air condition </li>
+                                </ul>
                                 </p>
                             </div>
                             <br>
-                              <a class="rts-read-more-two color-primary" href="contactus.php">Get in Touch<i class="far fa-arrow-right"></i></a>
+                            <a class="rts-read-more-two color-primary" href="project-details-xml.php">Projects<i class="far fa-arrow-right"></i></a>
+                              <a class="rts-read-more-two color-primary" href="https://api.whatsapp.com/send?phone=94773710299&text=Heating, Ventilation System">Get in Touch<i class="far fa-arrow-right"></i></a>
+                        
                         </div>
                     </div>
                 </div>
@@ -83,20 +93,151 @@
                 <!-- single service area -->
                 <div class="col-xl-4 col-md-6 col-sm-12 col-12 pb--140 pb_md--100">
                     <div class="service-two-inner">
-                        <a href="project-details-xml.php" class="thumbnail three"><img src="assets/images/service/04.jpg" alt="Business_image"></a>
+                        <a href="project-details-xml.php" class="thumbnail three"><img src="assets/images/service/CentralAircondition.jpg" alt="Auto Air conditioning "></a>
                         <div class="body-content">
                             <div class="hidden-area">
-                                <h5 class="title">Motor Vehicle Air Conditioning (MVAC)</h5>
+                                <h5 class="title">Auto Air conditioning </h5>
                                 <p class="dsic">
-                                Electrical engineering is an engineering discipline concerned with the study, design, and application of equipment, devices, and systems which use electricity, electronics, and electromagnetism.
-                                </p>
+                                <ul>
+                                    <li>Colombo branch</li>
+                                    <li>Negombo branch</li>
+                                    <li>Nainamadu branch</li>
+                                </ul>   
+                            </p>
                             </div>
                             <br>
-                              <a class="rts-read-more-two color-primary" href="contactus.php">Get in Touch<i class="far fa-arrow-right"></i></a>
+                            <a class="rts-read-more-two color-primary" href="project-details-xml.php">Projects<i class="far fa-arrow-right"></i></a>
+                            <a class="rts-read-more-two color-primary" href="https://api.whatsapp.com/send?phone=94773710299&text=Auto Air conditioning">Get in Touch<i class="far fa-arrow-right"></i></a>
+                        
                         </div>
                     </div>
                 </div>
                 <!-- single service area end-->
+
+                 <!-- single service area -->
+                 <div class="col-xl-4 col-md-6 col-sm-12 col-12 pb--140 pb_md--100">
+                    <div class="service-two-inner">
+                        <a href="project-details-xml.php" class="thumbnail four"><img src="assets/images/service/refregirator.jpg" alt="Commercial Refrigeration"></a>
+                        <div class="body-content">
+                            <div class="hidden-area">
+                                <h5 class="title">Commercial Refrigeration</h5>
+                                <p class="dsic">
+                                <ul>
+                                    <li>Blast Frasers</li>
+                                    <li>Plate Frasers</li>                                    
+                                    <li>Cold room</li>
+                                    <li>Chiller room</li>
+                                </ul>   
+                            </p>
+                            </div>
+                            <br>
+                            <a class="rts-read-more-two color-primary" href="project-details-xml.php">Projects<i class="far fa-arrow-right"></i></a>
+                            <a class="rts-read-more-two color-primary" href="https://api.whatsapp.com/send?phone=94773710299&text=Commercial Refrigeration">Get in Touch<i class="far fa-arrow-right"></i></a>
+                        
+                        </div>
+                    </div>
+                </div>
+                <!-- single service area end-->
+               
+                 
+               
+               
+                 <!-- single service area -->
+                 <div class="col-xl-4 col-md-6 col-sm-12 col-12 pb--140 pb_md--100">
+                    <div class="service-two-inner">
+                        <a href="project-details-xml.php" class="thumbnail five"><img src="assets/images/service/Escalator.jpg" alt="Elevate & Escalator"></a>
+                        <div class="body-content">
+                            <div class="hidden-area">
+                                <h5 class="title">Elevate & Escalator </h5>
+                                <p class="dsic">
+                                <ul>
+                                    <li>Villa Elevators</li>
+                                    <li>Hospital Elevators</li>
+                                    <li>Bump Elevators</li>
+                                </ul>   
+                            </p>
+                            </div>
+                            <br>
+                            <a class="rts-read-more-two color-primary" href="project-details-xml.php">Projects<i class="far fa-arrow-right"></i></a>
+                            <a class="rts-read-more-two color-primary" href="https://api.whatsapp.com/send?phone=94773710299&text=Elevate & Escalator">Get in Touch<i class="far fa-arrow-right"></i></a>
+                        
+                        </div>
+                    </div>
+                </div>
+                <!-- single service area end-->
+               
+                
+                 <!-- single service area -->
+                 <div class="col-xl-4 col-md-6 col-sm-12 col-12 pb--140 pb_md--100">
+                    <div class="service-two-inner">
+                        <a href="project-details-xml.php" class="thumbnail six"><img src="assets/images/service/genarator.jpg" alt="Generators"></a>
+                        <div class="body-content">
+                            <div class="hidden-area">
+                                <h5 class="title"> Generators</h5>
+                                <p class="dsic">
+                                <ul>
+                                    <li>5kv to 2000kv generators</li>
+                                </ul>   
+                            </p>
+                            </div>
+                            <br>
+                            <a class="rts-read-more-two color-primary" href="project-details-xml.php">Projects<i class="far fa-arrow-right"></i></a>
+                            <a class="rts-read-more-two color-primary" href="https://api.whatsapp.com/send?phone=94773710299&text=Generators">Get in Touch<i class="far fa-arrow-right"></i></a>
+                        
+                        </div>
+                    </div>
+                </div>
+                <!-- single service area end-->
+
+               
+                  <!-- single service area -->
+                  <div class="col-xl-4 col-md-6 col-sm-12 col-12 pb--140 pb_md--100">
+                    <div class="service-two-inner">
+                        <a href="project-details-xml.php" class="thumbnail seven"><img src="assets/images/service/solar.jpg" alt="Solar Power System"></a>
+                        <div class="body-content">
+                            <div class="hidden-area">
+                                <h5 class="title">Solar Power System  </h5>
+                                <p class="dsic">
+                                <ul>
+                                    <li>5KW to 1MV Mainstor Projects </li>
+                                </ul>   
+                            </p>
+                            </div>
+                            <br>
+                            <a class="rts-read-more-two color-primary" href="project-details-xml.php">Projects<i class="far fa-arrow-right"></i></a>
+                            <a class="rts-read-more-two color-primary" href="https://api.whatsapp.com/send?phone=94773710299&text=Solar Power System ">Get in Touch<i class="far fa-arrow-right"></i></a>
+                        
+                        </div>
+                    </div>
+                </div>
+                <!-- single service area end-->
+
+                  <!-- single service area -->
+                  <div class="col-xl-4 col-md-6 col-sm-12 col-12 pb--140 pb_md--100">
+                    <div class="service-two-inner">
+                        <a href="project-details-xml.php" class="thumbnail eight"><img src="assets/images/service/projects.jpg" alt=" Project supplies"></a>
+                        <div class="body-content">
+                            <div class="hidden-area">
+                                <h5 class="title"> Project supplies </h5>
+                                <p class="dsic">
+                                <ul>
+                                    <li>Hotels</li>
+                                    <li>Banquets</li>
+                                    <li>Factories</li>
+                                    <li>Apartments</li>
+                                    <li>Commercial Buildings (Super Market)</li>
+                                </ul>   
+                            </p>
+                            </div>
+                            <br>
+                            <a class="rts-read-more-two color-primary" href="project-details-xml.php">Projects<i class="far fa-arrow-right"></i></a>
+                            <a class="rts-read-more-two color-primary" href="https://api.whatsapp.com/send?phone=94773710299&text=Project supplies">Get in Touch<i class="far fa-arrow-right"></i></a>
+                        
+                        </div>
+                    </div>
+                </div>
+                <!-- single service area end-->
+               
                
               
             </div>

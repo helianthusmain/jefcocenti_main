@@ -52,7 +52,7 @@ foreach ($xmlData -> children() as $value) {
                     <div class="col-xl-3 col-lg-4 col-md-4 col-sm-4 col-4">
                         <div class="thumbnail">
                             <a href="index.php">
-                                <img src="assets/images/logo/logo.png" alt="Jefco-logo">
+                                <img src="assets/images/logo/logo-1.jpg" alt="Jefco-logo">
                             </a>
                         </div>
                     </div>
