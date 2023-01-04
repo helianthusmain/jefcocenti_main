@@ -18813,6 +18813,7 @@ p.disc.banner-para {
   border-radius: 0 0 15px 15px;
   position: absolute;
   bottom: -50%;
+  width: 100%;
 }
 @media only screen and (max-width: 767px) {
   .service-two-inner .body-content {
