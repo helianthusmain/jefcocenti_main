@@ -49,14 +49,14 @@ foreach ($xmlData -> children() as $value) {
         <div class="header-main-one bg-white">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-3 col-lg-4 col-md-4 col-sm-4 col-4">
+                    <div id="logoblock" class="col-xl-3 col-lg-4 col-md-4 col-sm-4 col-4">
                         <div class="thumbnail">
                             <a href="index.php" style="padding: 0px;">
                                 <img src="assets/images/logo/logo-1.jpg" alt="Jefco-logo">
                             </a>
                         </div>
                     </div>
-                    <div class=" col-xl-9 col-lg-8 col-md-8 col-sm-8 col-8">
+                    <div id="navblock" class=" col-xl-9 col-lg-8 col-md-8 col-sm-8 col-8">
                         <div class="main-header">
                             <nav class="nav-main mainmenu-nav d-none d-xl-block">
                                 <ul class="mainmenu">

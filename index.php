@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="assets/css/plugins/unicons.css">
     <link rel="stylesheet" href="assets/css/vendor/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
+    <script defer src="assets/js/logo.js"></script>
     <style>
         .rts-feature-area{
             margin-top: 5px;
