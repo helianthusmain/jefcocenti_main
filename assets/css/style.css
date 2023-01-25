@@ -14940,7 +14940,7 @@ body.sal-disabled [data-sal|=flip] {
   position: relative;
 }
 .header-top-one .left .mail a {
-  padding: 11px 0;
+  /*padding: 11px 0;*/
   display: block;
   color: #fff;
   margin-right: 50px;
@@ -16924,6 +16924,22 @@ button.menu.rts-btn.btn-primary-3-menu:hover .menu-light {
   background-image: url(../images/banner/banner-03.jpg);
 }
 
+.banner-one .swiper-wrapper .swiper-slide.four {
+  background-image: url(../images/banner/banner-04.jpg);
+}
+
+.banner-one .swiper-wrapper .swiper-slide.five {
+  background-image: url(../images/banner/banner-05.jpg);
+}
+
+.banner-one .swiper-wrapper .swiper-slide.six {
+  background-image: url(../images/banner/banner-06.jpg);
+}
+
+.banner-one .swiper-wrapper .swiper-slide.seven {
+  background-image: url(../images/banner/banner-07.jpg);
+}
+
 .offwrap {
   cursor: url(../images/banner/shape/close.png), auto;
   width: 100%;
@@ -17531,6 +17547,7 @@ button.menu.rts-btn.btn-primary-3-menu:hover .menu-light {
   background-size: cover;
   width: 100%;
 }
+
 @media only screen and (max-width: 767px) {
   .banner-two {
     height: 500px;

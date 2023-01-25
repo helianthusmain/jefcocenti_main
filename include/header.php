@@ -21,8 +21,8 @@ foreach ($xmlData -> children() as $value) {
                     <div class="col-lg-6 d-xl-block d-none">
                         <div class="left">
                             <div class="mail">
-                                <a ><i class="fal fa-envelope"></i> info@jefcocenti.com | gamini@jefcocenti.com</a>
-                                
+                                <a ><i class="fal fa-envelope"></i> info@jefcocenti.com </a>
+                                <a ><i class="fal fa-envelope"></i> gamini@jefcocenti.com </a>
                             </div>
                             <div class="working-time">
                                 <p><i class="fal fa-clock"></i> Working: 8.00am - 5.00pm</p>
@@ -48,7 +48,7 @@ foreach ($xmlData -> children() as $value) {
             </div>
         </div>
         <div class="header-main-one bg-white">
-            <div class="container">
+            <div class="container-fluid">
                 <div class="row">
                     <div id="logoblock" class="col-xl-3 col-lg-4 col-md-4 col-sm-4 col-4">
                         <div class="thumbnail">
