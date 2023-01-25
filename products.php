@@ -35,13 +35,13 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 breadcrumb-1">
-                    <h1 class="title">Projects</h1>
+                    <h1 class="title">Product & Parts</h1>
                 </div>
                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
                     <div class="bread-tag">
                         <a href="index.php">Home</a>
                         <span> / </span>
-                        <a href="#" class="active">Projects</a>
+                        <a href="#" class="active">Product & Parts</a>
                     </div>
                 </div>
             </div>
@@ -61,26 +61,158 @@
                             <div class="blog-grid-inner">
                                 <div class="blog-header">
                                     <a class="thumbnail" href="contactus.php">
-                                        <img src="assets/images/product/Low-static-pressure-duct.jpg" alt="Low-static-pressure-duct">
+                                        <img src="assets/images/product/2.5-4.jpg" alt="Low-static-pressure-duct">
                                     </a>
                                     <div class="blog-info">
                                       
                                         <div class="user">
                                             <i class="fal fa-tags"></i>
-                                            <span>DUCT SERIES</span>
+                                            <span>Split Air Condition </span>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="blog-body">
                                      <a href="contactus.php">
                                         <h5 class="title">
-                                        Low Static Pressure Duct
+                                        Split Air Condition 
                                         </h5>
                                      </a>
                                 </div>
                             </div>
                             <!-- end blog grid inner -->
                         </div>
+
+                        <div class="col-sm">
+                            <!-- start blog grid inner -->
+                            <div class="blog-grid-inner">
+                                <div class="blog-header">
+                                    <a class="thumbnail" href="contactus.php">
+                                        <img src="assets/images/product/Central-Air-Condition.jpg" alt="Low-static-pressure-duct">
+                                    </a>
+                                    <div class="blog-info">
+                                      
+                                        <div class="user">
+                                            <i class="fal fa-tags"></i>
+                                            <span>Central Air Condition</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="blog-body">
+                                     <a href="contactus.php">
+                                        <h5 class="title">
+                                        Central Air Condition
+                                        </h5>
+                                     </a>
+                                </div>
+                            </div>
+                            <!-- end blog grid inner -->
+                        </div>
+
+                        
+                        <div class="col-sm">
+                            <!-- start blog grid inner -->
+                            <div class="blog-grid-inner">
+                                <div class="blog-header">
+                                    <a class="thumbnail" href="contactus.php">
+                                        <img src="assets/images/product/VRV-VRF -AC-System.jpg" alt="Low-static-pressure-duct">
+                                    </a>
+                                    <div class="blog-info">
+                                      
+                                        <div class="user">
+                                            <i class="fal fa-tags"></i>
+                                            <span>VRV/VRF  AC System</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="blog-body">
+                                     <a href="contactus.php">
+                                        <h5 class="title">
+                                        VRV/VRF  AC System
+                                        </h5>
+                                     </a>
+                                </div>
+                            </div>
+                            <!-- end blog grid inner -->
+                        </div>
+
+                        <div class="col-sm">
+                            <!-- start blog grid inner -->
+                            <div class="blog-grid-inner">
+                                <div class="blog-header">
+                                    <a class="thumbnail" href="contactus.php">
+                                        <img src="assets/images/product/Auto-AC-Spare-Parts.jpg" alt="Auto AC Spare Parts">
+                                    </a>
+                                    <div class="blog-info">
+                                      
+                                        <div class="user">
+                                            <i class="fal fa-tags"></i>
+                                            <span>Auto AC Spare Parts</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="blog-body">
+                                     <a href="contactus.php">
+                                        <h5 class="title">
+                                        Auto AC Spare Parts
+                                        </h5>
+                                     </a>
+                                </div>
+                            </div>
+                            <!-- end blog grid inner -->
+                        </div>
+
+                        <div class="col-sm">
+                            <!-- start blog grid inner -->
+                            <div class="blog-grid-inner">
+                                <div class="blog-header">
+                                    <a class="thumbnail" href="contactus.php">
+                                        <img src="assets/images/product/ValveforChilledWaterSystem.jpg" alt="Valve for Chilled Water System">
+                                    </a>
+                                    <div class="blog-info">
+                                      
+                                        <div class="user">
+                                            <i class="fal fa-tags"></i>
+                                            <span>Valve for Chilled Water System</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="blog-body">
+                                     <a href="contactus.php">
+                                        <h5 class="title">
+                                        Valve for Chilled Water System
+                                        </h5>
+                                     </a>
+                                </div>
+                            </div>
+                            <!-- end blog grid inner -->
+                        </div>
+
+                        <div class="col-sm">
+                            <!-- start blog grid inner -->
+                            <div class="blog-grid-inner">
+                                <div class="blog-header">
+                                    <a class="thumbnail" href="contactus.php">
+                                        <img src="assets/images/product/Gas-Cylinder-r22.jpg" alt="Gas Cylinder r22">
+                                    </a>
+                                    <div class="blog-info">
+                                      
+                                        <div class="user">
+                                            <i class="fal fa-tags"></i>
+                                            <span>Gas Cylinder r22</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="blog-body">
+                                     <a href="contactus.php">
+                                        <h5 class="title">
+                                        Gas Cylinder r22
+                                        </h5>
+                                     </a>
+                                </div>
+                            </div>
+                            <!-- end blog grid inner -->
+                        </div>
+
                         <div class="col-sm">
                                    <!-- start blog grid inner -->
                                    <div class="blog-grid-inner">
@@ -203,6 +335,58 @@
                                      <a href="contactus.php">
                                         <h5 class="title">
                                         2.5~4.6kW
+                                        </h5>
+                                     </a>
+                                </div>
+                            </div>
+                            <!-- end blog grid inner -->
+                        </div>
+
+                        <div class="col-sm">
+                                   <!-- start blog grid inner -->
+                                   <div class="blog-grid-inner">
+                                <div class="blog-header">
+                                    <a class="thumbnail" href="contactus.php">
+                                        <img src="assets/images/product/Electrical-Parts.jpg" alt="Electrical Parts">
+                                    </a>
+                                    <div class="blog-info">
+                                      
+                                        <div class="user">
+                                            <i class="fal fa-tags"></i>
+                                            <span>Electrical Parts</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="blog-body">
+                                     <a href="contactus.php">
+                                        <h5 class="title">
+                                        Electrical Parts
+                                        </h5>
+                                     </a>
+                                </div>
+                            </div>
+                            <!-- end blog grid inner -->
+                        </div>
+                        
+                        <div class="col-sm">
+                                   <!-- start blog grid inner -->
+                                   <div class="blog-grid-inner">
+                                <div class="blog-header">
+                                    <a class="thumbnail" href="contactus.php">
+                                        <img src="assets/images/product/Elevator-Escalator-Parts.jpg" alt="Elevator & Escalator Parts">
+                                    </a>
+                                    <div class="blog-info">
+                                      
+                                        <div class="user">
+                                            <i class="fal fa-tags"></i>
+                                            <span>Elevator & Escalator Parts</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="blog-body">
+                                     <a href="contactus.php">
+                                        <h5 class="title">
+                                        Elevator & Escalator Parts
                                         </h5>
                                      </a>
                                 </div>

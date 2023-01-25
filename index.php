@@ -123,12 +123,12 @@
                         <p class="pre-title">
                             More About Us
                         </p>
-                        <h2 class="title">Mechanical & Electronic Engineering Company in Sri Lanka </h2>
+                        <h2 class="title">Air conditioning, Refrigeration, Mechanical And Electrical Engineering Company.</h2>
                     </div>
                     <div class="about-inner">
                         <p class="disc">
                         Jefco Centi (Private) Limited, established in 1993, has developed
-                        into a pioneer mechanical & electronic engineering company in
+                        into a pioneer •	Air conditioning, Refrigeration, Mechanical And Electrical Engineering Company in 
                         the nation. As an innovative and a value driven company we have
                         been able to overcome the contrasting challenges in the industry
                         and we pride ourselves as one of the industry leaders.
@@ -164,10 +164,10 @@
                             <div class="col-lg-6 col-md-6 col-sm-6 col-12">
                                 <div class="author-inner">
                                     <a class="thumbnail" href="#"><img src="assets/images/about/sm-01.png" alt="finbiz_founder"></a>
-                                    <div class="call-details">
+                                    <div class="email-details">
                                         <span>Email Us</span>
                                         <a href="mailto:">
-                                            <h6 class="title">info@jefcocenti.com</h6>
+                                            <h6 class="title">info@jefcocenti.com <br> gamini@jefcocenti.com</h6>
                                         </a>
                                     </div>
                                 </div>
@@ -240,10 +240,12 @@
                         </div>
                         <div class="service-details">
                             <a href="our-service.php">
-                                <h5 class="title">Electrical</h5>
+                                <h5 class="title">MVP – Mechanical Electrical Plumbing</h5>
                             </a>
                             <p class="disc">
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+                            <ul>
+                                <li>Industrial Electrical ..</li>
+                            </ul>
                             </p>
                             <a class="rts-read-more btn-primary" href="our-service.php"><i class="far fa-arrow-right"></i>Read
                                 More</a>
@@ -259,11 +261,12 @@
                         </div>
                         <div class="service-details">
                             <a href="our-service.php">
-                                <h5 class="title">Heating, Ventilation & Air Conditioning </h5>
+                                <h5 class="title">HVAC - Heating, Ventilation & Air Conditioning</h5>
                             </a>
                             <p class="disc">
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
-                       
+                            <ul>
+                                <li>VRV / VRF System ..</li>
+                            </ul>
                             </p>
                             <a class="rts-read-more btn-primary" href="our-service.php"><i class="far fa-arrow-right"></i>Read
                                 More</a>
@@ -279,11 +282,12 @@
                         </div>
                         <div class="service-details">
                             <a href="our-service.php">
-                                <h5 class="title">Motor Vehicle Air Conditioning</h5>
+                                <h5 class="title">Auto Air conditioning </h5>
                             </a>
                             <p class="disc">
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
-                       
+                            <ul>
+                                <li>Colombo branch ..</li>
+                            </ul>
                             </p>
                             <a class="rts-read-more btn-primary" href="our-service.php"><i class="far fa-arrow-right"></i>Read
                                 More</a>
@@ -299,11 +303,12 @@
                         </div>
                         <div class="service-details">
                             <a href="our-service.php">
-                                <h5 class="title">Refrigeration Systems</h5>
+                                <h5 class="title">Commercial Refrigeration</h5>
                             </a>
                             <p class="disc">
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
-                       
+                             <ul>
+                                <li>Blast Frasers..</li>
+                             </ul>
                             </p>
                             <a class="rts-read-more btn-primary" href="our-service.php"><i class="far fa-arrow-right"></i>Read
                                 More</a>
@@ -319,11 +324,12 @@
                         </div>
                         <div class="service-details">
                             <a href="our-service.php">
-                                <h5 class="title">Solar Energy Solutions</h5>
+                                <h5 class="title">Elevate & Escalator </h5>
                             </a>
                             <p class="disc">
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
-                       
+                            <ul>
+                                <li>Villa Elevators..</li>
+                             </ul>
                             </p>
                             <a class="rts-read-more btn-primary" href="our-service.php"><i class="far fa-arrow-right"></i>Read
                                 More</a>
@@ -335,15 +341,54 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12 col-12">
                     <div class="service-one-inner six">
                         <div class="thumbnail">
+                            <img src="assets/images/service/icon/04.svg" alt="finbiz_service">
+                        </div>
+                        <div class="service-details">
+                            <a href="our-service.php">
+                                <h5 class="title">Generators</h5>
+                            </a>
+                            <p class="disc">
+                            <ul>
+                                <li>Cummins – Perkings ..</li>
+                             </ul>
+                            </p>
+                            <a class="rts-read-more btn-primary" href="our-service.php"><i class="far fa-arrow-right"></i>Read
+                                More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12 col-12">
+                    <div class="service-one-inner six">
+                        <div class="thumbnail">
+                            <img src="assets/images/service/icon/03.svg" alt="finbiz_service">
+                        </div>
+                        <div class="service-details">
+                            <a href="our-service.php">
+                                <h5 class="title">Solar Power System </h5>
+                            </a>
+                            <p class="disc">
+                            <ul>
+                                <li>5KW to 1MV Mainstor Projects..</li>
+                             </ul>
+                            </p>
+                            <a class="rts-read-more btn-primary" href="our-service.php"><i class="far fa-arrow-right"></i>Read
+                                More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12 col-12">
+                    <div class="service-one-inner six">
+                        <div class="thumbnail">
                             <img src="assets/images/service/icon/06.svg" alt="finbiz_service">
                         </div>
                         <div class="service-details">
                             <a href="our-service.php">
-                                <h5 class="title">Consultancy & Advice</h5>
+                                <h5 class="title">Project supplies </h5>
                             </a>
                             <p class="disc">
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
-                           
+                            <ul>
+                                <li>Hotels ..</li>
+                             </ul>
                             </p>
                             <a class="rts-read-more btn-primary" href="our-service.php"><i class="far fa-arrow-right"></i>Read
                                 More</a>
@@ -847,7 +892,9 @@
                                 <p class="headoffice">
                                    E-mail
                                 </p>
-                                <p class="office">info@jefcocenti.com</p>
+                                <p class="office">info@jefcocenti.com<rv>
+                                gamini@jefcocenti.com
+                                </p>
                             </div>
                         </div>
                     </div>

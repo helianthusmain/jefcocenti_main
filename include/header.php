@@ -21,7 +21,8 @@ foreach ($xmlData -> children() as $value) {
                     <div class="col-lg-6 d-xl-block d-none">
                         <div class="left">
                             <div class="mail">
-                                <a href="mailto:webmaster@example.com"><i class="fal fa-envelope"></i> info@jefcocenti.com</a>
+                                <a ><i class="fal fa-envelope"></i> info@jefcocenti.com | gamini@jefcocenti.com</a>
+                                
                             </div>
                             <div class="working-time">
                                 <p><i class="fal fa-clock"></i> Working: 8.00am - 5.00pm</p>
@@ -64,7 +65,7 @@ foreach ($xmlData -> children() as $value) {
                                     <li><a href="about-us.php">About Us</a></li>
                                     <li><a  href="our-service.php">Services</a> </li>
                                     <li><a  href="project-details-xml.php">Project</a></li>
-                                    <li><a  href="products.php">Products</a></li>
+                                    <li><a  href="products.php">Product & Parts</a></li>
                                     <li><a href="contactus.php">Contact</a></li>
                                 </ul>
                             </nav>
@@ -122,7 +123,11 @@ foreach ($xmlData -> children() as $value) {
                         <!-- single -->
                         <div class="single">
                             <i class="fas fa-envelope"></i>
-                            <a href="#">info@jefcocenti.com</a>
+                            <a href="mailto:info@jefcocenti.com">info@jefcocenti.com</a>
+                        </div>
+                        <div class="single">
+                            <i class="fas fa-envelope"></i>
+                            <a herf="mailto:gamini@jefcocenti.com">gamini@jefcocenti.com</a>
                         </div>
                         <!-- single ENd -->
                         <!-- single -->

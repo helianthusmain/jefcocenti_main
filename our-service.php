@@ -50,13 +50,14 @@
                         <a href="project-details-xml.php" class="thumbnail"><img src="assets/images/service/plumbing.jpg" alt="MVP – Mechanical Electrical Plumbing"></a>
                         <div class="body-content">
                             <div class="hidden-area">
-                                <h5 class="title">MVP – Mechanical Electrical Plumbing</h5>
+                                <h5 class="title">MEP – Mechanical Electrical Plumbing</h5>
                                 <p class="dsic">                                
                                 <ul>
                                     <li>Industrial Electrical </li>
                                     <li>Pander Boards</li>
                                     <li>Industrial plumbing</li>
                                     <li>Industrial Engineering </li>
+                                    <li>Panel Boards</li>
                                 </ul>
                                 </p>                      
                             </div>
@@ -77,6 +78,7 @@
                                 <h5 class="title">HVAC - Heating, Ventilation & Air Conditioning</h5>
                                 <p class="dsic">
                                 <ul>
+                                    <li>Split Air Condition</li>
                                     <li>VRV / VRF System</li>
                                     <li>Central Air condition </li>
                                 </ul>
@@ -123,10 +125,10 @@
                                 <h5 class="title">Commercial Refrigeration</h5>
                                 <p class="dsic">
                                 <ul>
-                                    <li>Blast Frasers</li>
-                                    <li>Plate Frasers</li>                                    
-                                    <li>Cold room</li>
-                                    <li>Chiller room</li>
+                                    <li>Blast / Plate Freezer	</li>
+                                    <li>Cold / Chiller Room	</li>                                    
+                                    <li>Ammonia Block Ice Plant</li>
+                                    <li>Ammonia Cold Room</li>
                                 </ul>   
                             </p>
                             </div>
@@ -153,7 +155,8 @@
                                 <ul>
                                     <li>Villa Elevators</li>
                                     <li>Hospital Elevators</li>
-                                    <li>Bump Elevators</li>
+                                    <li>Dump Elevators</li>
+                                    <li>Escalator</li>
                                 </ul>   
                             </p>
                             </div>
@@ -176,7 +179,7 @@
                                 <h5 class="title"> Generators</h5>
                                 <p class="dsic">
                                 <ul>
-                                    <li>5kv to 2000kv generators</li>
+                                    <li>Cummins – Perkings brand new and recondition</li>
                                 </ul>   
                             </p>
                             </div>

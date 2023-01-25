@@ -163,9 +163,12 @@
                                             <ul>
                                                 <li>Electrical</li>
                                                 <li>Heating, Ventilation & Air Conditioning (HVAC)</li>
-                                                <li>Motor Vehicle Air Conditioning (MVAC)</li>
+                                                <li>Motor Vehicle Air Conditioning (Auto AC)</li>
                                                 <li>Refrigeration Systems</li>
-                                                <li>Solar Energy Solutions</li>
+                                                <li>Solar Energy System</li>
+                                                <li>Power Generator’s</li>
+                                                <li>Schedule Maintenance</li>                                                
+                                                <li>Call out Service for Repairs</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -182,27 +185,8 @@
                                         aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
                                             <ul>
-                                                <li>Metal Duct System Fabrication for HVAC Systems</li>
+                                                <li>Metal & PU Duct System Fabrication for HVAC Systems</li>
                                                 <li>Welding & Steel Fabrication</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingThree">
-                                        <button class="accordion-button collapsed" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#collapseThree"
-                                            aria-expanded="false" aria-controls="collapseThree">
-                                            <span>03. </span> Specialized Service
-                                        </button>
-                                    </h2>
-                                    <div id="collapseThree" class="accordion-collapse collapse"
-                                        aria-labelledby="headingThree" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            <ul>
-                                                <li>Facilities Management</li>
-                                                <li>cheduled Maintenance</li>
-                                                <li>Call Out Services</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -213,7 +197,7 @@
                                         <button class="accordion-button collapsed" type="button"
                                             data-bs-toggle="collapse" data-bs-target="#collapseFour"
                                             aria-expanded="false" aria-controls="collapseFour">
-                                            <span>04. </span> Drafting
+                                            <span>03. </span> Drafting
                                         </button>
                                     </h2>
                                     <div id="collapseFour" class="accordion-collapse collapse"
@@ -255,7 +239,7 @@
                         </div>
                         <div class="test-body">
                             <p class="disc">
-                                “To be the leading mechanical & electronic engineering company in Sri Lanka”
+                                “To be the leading Air conditioning, Refrigeration, Mechanical And Electrical Engineering Company.”
                             </p>
                         </div>
                     </div>

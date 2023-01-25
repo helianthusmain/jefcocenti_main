@@ -93,7 +93,7 @@
                 <div class="row">
                     <div class="col-12">
                         <div class="text-center">
-                            <p> © 2022. All rights reserved.Concept, Design & Development by Helianthus.</p>
+                            <p> © <?php echo date('Y'); ?>. All rights reserved.Concept, Design & Development by Helianthus.</p>
                         </div>
                     </div>
                 </div>
