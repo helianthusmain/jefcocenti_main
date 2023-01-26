@@ -153,9 +153,9 @@
                                 <h5 class="title">Elevate & Escalator </h5>
                                 <p class="dsic">
                                 <ul>
-                                    <li>Villa Elevators</li>
-                                    <li>Hospital Elevators</li>
-                                    <li>Dump Elevators</li>
+                                    <li>Villa Elevator</li>
+                                    <li>Hospital Elevator</li>
+                                    <li>Dump Elevator</li>
                                     <li>Escalator</li>
                                 </ul>   
                             </p>
