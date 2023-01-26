@@ -54,10 +54,10 @@
                                 <p class="dsic">                                
                                 <ul>
                                     <li>Industrial Electrical </li>
-                                    <li>Pander Boards</li>
+                                    <li>Panel Boards</li>
                                     <li>Industrial plumbing</li>
                                     <li>Industrial Engineering </li>
-                                    <li>Panel Boards</li>
+                                    
                                 </ul>
                                 </p>                      
                             </div>
@@ -179,6 +179,7 @@
                                 <h5 class="title"> Generators</h5>
                                 <p class="dsic">
                                 <ul>
+                                <li>5kv to 2000kv Generators</li>
                                     <li>Cummins – Perkings brand new and recondition</li>
                                 </ul>   
                             </p>

@@ -56,31 +56,7 @@
         <div class="container">
             <div class="row row-cols-md-3">             
                     
-                        <div class="col-sm">
-                            <!-- start blog grid inner -->
-                            <div class="blog-grid-inner">
-                                <div class="blog-header">
-                                    <a class="thumbnail" href="contactus.php">
-                                        <img src="assets/images/product/2.5-4.jpg" alt="Low-static-pressure-duct">
-                                    </a>
-                                    <div class="blog-info">
-                                      
-                                        <div class="user">
-                                            <i class="fal fa-tags"></i>
-                                            <span>Split Air Condition </span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="blog-body">
-                                     <a href="contactus.php">
-                                        <h5 class="title">
-                                        Split Air Condition 
-                                        </h5>
-                                     </a>
-                                </div>
-                            </div>
-                            <!-- end blog grid inner -->
-                        </div>
+                    
 
                         <div class="col-sm">
                             <!-- start blog grid inner -->
@@ -135,6 +111,32 @@
                             <!-- end blog grid inner -->
                         </div>
 
+                        <div class="col-sm">
+                            <!-- start blog grid inner -->
+                            <div class="blog-grid-inner">
+                                <div class="blog-header">
+                                    <a class="thumbnail" href="contactus.php">
+                                        <img src="assets/images/product/2.5-4.jpg" alt="Low-static-pressure-duct">
+                                    </a>
+                                    <div class="blog-info">
+                                      
+                                        <div class="user">
+                                            <i class="fal fa-tags"></i>
+                                            <span>Split Air Condition </span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="blog-body">
+                                     <a href="contactus.php">
+                                        <h5 class="title">
+                                        Split Air Condition 
+                                        </h5>
+                                     </a>
+                                </div>
+                            </div>
+                            <!-- end blog grid inner -->
+                        </div>
+                        
                         <div class="col-sm">
                             <!-- start blog grid inner -->
                             <div class="blog-grid-inner">
