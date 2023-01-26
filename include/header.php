@@ -21,8 +21,8 @@ foreach ($xmlData -> children() as $value) {
                     <div class="col-lg-6 d-xl-block d-none">
                         <div class="left">
                             <div class="mail">
-                                <a ><i class="fal fa-envelope"></i> info@jefcocenti.com </a>
-                                <a ><i class="fal fa-envelope"></i> gamini@jefcocenti.com </a>
+                                <a href="mailto:info@jefcocenti.com"><i class="fal fa-envelope"></i> info@jefcocenti.com </a>
+                                <a href="mailto:xyz@abc.com"><i class="fal fa-envelope"></i> gamini@jefcocenti.com </a>
                             </div>
                             <div class="working-time">
                                 <p><i class="fal fa-clock"></i> Working: 8.00am - 5.00pm</p>
@@ -40,7 +40,7 @@ foreach ($xmlData -> children() as $value) {
                                 <li><a href="https://www.facebook.com/profile.php?id=100065064349236" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
                                 <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                                 <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                                <li><a class="mr--0" href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                                <li><a href="https://api.whatsapp.com/send?phone=94773710299&text=I%20want%20to%20know%20more%20details"  target="_blank"><i class="fab fa-whatsapp"></i></a></li>
                             </ul>
                         </div>
                     </div>
