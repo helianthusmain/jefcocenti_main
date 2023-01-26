@@ -77,6 +77,9 @@
                                 <a href="mailto:info@jefcocenti.com">
                                     <p>info@jefcocenti.com</p>
                                 </a>
+                                <a href="mailto:gamini@jefcocenti.com">
+                                    <p>gamini@jefcocenti.com</p>
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -130,6 +133,9 @@
                             <a href="mailto:info@jefcocenti.com">
                                 <p>info@jefcocenti.com</p>
                             </a>
+                            <a href="mailto:gamini@jefcocenti.com">
+                                <p>gamini@jefcocenti.com</p>
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -181,6 +187,9 @@
                                 <span>Email</span>
                                 <a href="mailto:info@jefcocenti.com">
                                     <p>info@jefcocenti.com</p>
+                                </a>
+                                <a href="mailto:gamini@jefcocenti.com">
+                                    <p>gamini@jefcocenti.com</p>
                                 </a>
                             </div>
                         </div>
