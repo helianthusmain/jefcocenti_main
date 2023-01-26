@@ -37,7 +37,7 @@ foreach ($xmlData -> children() as $value) {
                                 <li><a href="project-details-xml.php">Projects</a></li>
                             </ul>
                             <ul class="social-wrapper-one">
-                                <li><a href=""><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="https://www.facebook.com/profile.php?id=100065064349236" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
                                 <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                                 <li><a href="#"><i class="fab fa-instagram"></i></a></li>
                                 <li><a class="mr--0" href="#"><i class="fab fa-linkedin-in"></i></a></li>
@@ -144,10 +144,10 @@ foreach ($xmlData -> children() as $value) {
                         <!-- single ENd -->
                     </div>
                     <div class="social-wrapper-two menu">
-                        <a href="https://www.facebook.com/profile.php?id=100065064349236"><i class="fab fa-facebook-f"></i></a>
+                        <a href="https://www.facebook.com/profile.php?id=100065064349236" target="_blank"><i class="fab fa-facebook-f"></i></a>
                         <a href="#"><i class="fab fa-twitter"></i></a>
                         <a href="#"><i class="fab fa-instagram"></i></a>
-                        <a href="#"><i class="fab fa-whatsapp"></i></a>
+                        <a href="https://api.whatsapp.com/send?phone=94773710299&text=I%20want%20to%20know%20more%20details"  target="_blank"><i class="fab fa-whatsapp"></i></a>
                         <!-- <a href="#"><i class="fab fa-linkedin"></i></a> -->
                     </div>
                 </div>
@@ -164,10 +164,10 @@ foreach ($xmlData -> children() as $value) {
                     </ul>
                 </nav>
                 <div class="social-wrapper-two menu mobile-menu">
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://www.facebook.com/profile.php?id=100065064349236" target="_blank"><i class="fab fa-facebook-f"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
                     <a href="#"><i class="fab fa-instagram"></i></a>
-                    <a href="#"><i class="fab fa-whatsapp"></i></a>
+                    <a href="https://api.whatsapp.com/send?phone=94773710299&text=I%20want%20to%20know%20more%20details" target="_blank"><i class="fab fa-whatsapp"></i></a>
                     <!-- <a href="#"><i class="fab fa-linkedin"></i></a> -->
                 </div>
                 <a href="#" class="rts-btn btn-primary ml--20 ml_sm--5 header-one-btn quote-btnmenu">Get Quote</a>
